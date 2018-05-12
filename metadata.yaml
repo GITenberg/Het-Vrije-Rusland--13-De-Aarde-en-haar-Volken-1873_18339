@@ -1,0 +1,33 @@
+_repo: Het-Vrije-Rusland--13-De-Aarde-en-haar-Volken-1873_18339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dixon, William Hepworth
+    aliases:
+    - Dixon, Hepworth
+    - Yorke, Onslow
+    - Dixon, W. Hepworth (William Hepworth)
+    birthdate: 1821
+    deathdate: 1879
+    gutenberg_agent_id: '7953'
+    url: http://www.gutenberg.org/2009/agents/7953
+    wikipedia: http://en.wikipedia.org/wiki/William_Hepworth_Dixon
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18339'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia'
+- !lcc 'DK'
+- !lcsh 'Russia -- Religion'
+title: "Het Vrije Rusland\r\nDe Aarde en haar Volken, 1873"
+url: http://www.gutenberg.org/ebooks/18339
