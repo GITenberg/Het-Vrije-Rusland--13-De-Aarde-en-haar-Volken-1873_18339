@@ -1,9 +1,12 @@
 The Project Gutenberg EBook of Het Vrije Rusland, by William Hepworth Dixon
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
 
 
 Title: Het Vrije Rusland
@@ -11,7 +14,7 @@ Title: Het Vrije Rusland
 
 Author: William Hepworth Dixon
 
-Release Date: May 7, 2006 [EBook #18339]
+Release Date: December 3, 2014 [EBook #18339]
 
 Language: Dutch
 
@@ -23,7 +26,8 @@ Character set encoding: ISO-8859-1
 
 
 Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg.
 
 
 
@@ -33,21 +37,18 @@ Proofreading Team at http://www.pgdp.net/
 
 
 
-
-
-                       HET VRIJE RUSLAND.
-
+HET VRIJE RUSLAND.
 
 
 De schetsen, die wij onzen lezers onder dezen titel aanbieden, zijn
 ontleend aan het voor een paar jaren verschenen boek van den met lof
-bekenden engelschen schrijver, William Hepworth Dixon, _Free Russia_,
+bekenden engelschen schrijver, William Hepworth Dixon, Free Russia,
 het vrije Rusland, genaamd: welk werk door het beschaafde publiek
 in Engeland en ook elders met grooten en welverdienden bijval is
 ontvangen. De titel mag eenigszins zonderling schijnen: hooren wij
 wat de schrijver zelf aanvoert om deze zijne keuze te rechtvaardigen.
 
-"_Swobodnaya Rossia_ (het vrije Rusland)--zoo zegt hij--is eene
+"Swobodnaya Rossia (het vrije Rusland)--zoo zegt hij--is eene
 uitdrukking, die in geheel dat groote land leeft in aller mond;
 deze twee woorden geven het karakter aan en drukken tevens de hoop
 uit van het nieuwe rijk, dat tijdens den Krimoorlog in het leven
@@ -86,6 +87,7 @@ rol in de wereldgeschiedenis te spelen.
 
 
 
+
 I.
 
 HET HOOGE NOORDEN.
@@ -117,7 +119,7 @@ dan een blik op de akelige, levenlooze streek gunt. Na eene vervelende
 vaart van ongeveer vijftig uren, komen wij eindelijk aan een laag
 land, dat, half in den nevel verloren, zich verre weg naar het zuiden
 uitstrekt, niet ongelijk aan eene grauwe wolkenlaag. Wij varen tusschen
-kaap Kanin en de zoogenaamde Heilige-kaap, _Swioetoi-Noss_, door, en
+kaap Kanin en de zoogenaamde Heilige-kaap, Swioetoi-Noss, door, en
 stevenen vervolgens het ongeveer dertig mijlen breede kanaal binnen,
 dat van de Poolzee naar de ruime en grillig gevormde binnenzee voert,
 onder den naam van de Witte- of IJszee bekend.
@@ -177,9 +179,9 @@ zwervend leger opslaan: eene akelige ijswoestijn, nog verschrikkelijker
 dan de wildernissen, waarin de Laplander het wild vervolgt. Deze
 provincie van het groote rijk heeft noch dorpen, noch wegen, noch
 akkers; zij heeft zelfs geen eigen naam, want de Russen noemen haar
-nooit anders dan bet land der Samojeden. Zij strekt zich noord- en
+nooit anders dan het land der Samojeden. Zij strekt zich noord- en
 oostwaarts uit, van de muren van Archangel en de kust van kaap Kanin,
-tot aan de toppen van het Oural-gebergte en de IJzeren poorten van den
+tot aan de toppen van het Oeral-gebergte en de IJzeren poorten van den
 zeeboezem van Kara. In hare dalen en kloven smelt de sneeuw nooit; en
 hare kusten, die eene lengte van ongeveer zevenhonderd mijlen beslaan,
 zijn gedurende acht maanden van het jaar ongenaakbaar door onafzienbare
@@ -200,7 +202,7 @@ onderzoekingen. De Samojeden koken hunne spijzen niet; het is mij
 onbekend, of zij menschenvleesch eten; wel weet ik dat zij het
 vleesch der rendieren rauw verslinden. Hunne jacht- en zwerftochten
 steeds verder uitstrekkende, zijn de Samojeden, aanvankelijk in het
-hooge noorden van Azië gevestigd, het Oural-gebergte overgetrokken,
+hooge noorden van Azië gevestigd, het Oeral-gebergte overgetrokken,
 en hebben zich in de landstreken tot nabij kaap Kanin verspreid:
 een land, zoo koud, zoo ruw en zoo dor, dat waarschijnlijk geen
 ander menschenras het daar zou kunnen uithouden. Daar vonden hen
@@ -209,7 +211,7 @@ zeer nabij aan de slavernij grenzende.
 
 Deze Zarayny, een dapper en verstandig volk, schijnen, wat afstamming
 en taal betreft, het naast aan de Finnen verwant; waarschijnlijk
-zijn zij de overblijfselen eener aloude volkplanting van _trappers_
+zijn zij de overblijfselen eener aloude volkplanting van trappers
 of jagers. Zoowel door gestalte en voorkomen als door aanleg en
 ontwikkeling, munten zij boven de Samojeden uit; evenals de Russen,
 bouwen zij zich houten hutten, en bezitten talrijke kudden rendieren,
@@ -235,8 +237,8 @@ waarmede enkele indiaansche stammen hunne armelijke woningen opsieren,
 ontbreken hier. Toch heeft de Samojeed eenige, het is waar zeer
 onbestemde, denkbeelden en voorstellingen van maatschappelijk leven,
 zelfs van eene regeering. Eene groep van een zeker aantal woningen
-draagt den naam van _choum_; aan het hoofd van iederen choum staat
-een _chaman_, een soort van geestelijk opperhoofd.
+draagt den naam van choum; aan het hoofd van iederen choum staat een
+chaman, een soort van geestelijk opperhoofd.
 
 De tegenwoordige keizer heeft eenige priesters naar deze stammen
 afgezonden, zooals weleer Marfa Boretski zijne popen en monniken naar
@@ -301,7 +303,7 @@ in al zijne zuiverheid, vrij van alle vreemde bijmengselen. "Nooit,"
 zeide mij, met blijkbare fierheid, een pachter van Archangel, "nooit
 hebben wij onder ons edelen of slaven gekend." In alle opzichten,
 zoowel ten goede als ten kwade, zijn zij aan hunne oude levenswijze
-en zeden getrouw gebleven; en toen de Tsaar Godonoff, ten jare 1601,
+en zeden getrouw gebleven; en toen de Tsaar Godounoff, ten jare 1601,
 de aartsvaderlijke inrichting van het dorps- en gemeentewezen naar het
 tartaarsche model wilde vervormen, boden zij een even hardnekkigen
 weerstand, als toen, zes-en-zestig jaren later, de patriarch Nikon
@@ -378,13 +380,13 @@ verplicht zouden zijn den vloed af te wachten.
 "Wachten!" roept onze kapitein; "neen, dat nooit! Help ons liever
 een handje, dan zullen wij er wel doorkomen."
 
-Juist breekt de zon door de nevelen heen; maar de zwarte wolken hangen
-laag en dreigend; ieder gevoelt dat een stormvlaag op handen is. Dicht
-bij den mond liggen twee booten, de _Thera_ en de _Olga_, die als
-beschonkenen heen en weder slingeren; toch geeft de russische loods
-glimlachend toe; de machine werkt met halve kracht, en wij stevenen
-naar de rij van zwarte en witte bakens, die voor ons op de golven
-dobberen. Weldra laten wij de _Thera_ en de _Olga_ achter ons, die,
+Juist breekt de zon door de nevelen heen; maar de zwarte wolken
+hangen laag en dreigend; ieder gevoelt dat een stormvlaag op handen
+is. Dicht bij den mond liggen twee booten, de Thera en de Olga, die
+als beschonkenen heen en weder slingeren; toch geeft de russische
+loods glimlachend toe; de machine werkt met halve kracht, en wij
+stevenen naar de rij van zwarte en witte bakens, die voor ons op de
+golven dobberen. Weldra laten wij de Thera en de Olga achter ons, die,
 terwijl wij voorbij stoomen, nog heviger slingeren en schudden, en
 waarvan de zeilen rusteloos beven, als een door de koorts gefolterde
 kranke. Een half uur later varen wij tusschen de tonnen door: wij
@@ -427,7 +429,7 @@ de politie was onverbiddelijk; de scheepvaart stond stil; de rijk
 geladen schepen konden in de haven blijven liggen, omdat in de
 reglementen geen melding werd gemaakt van dien nieuwen mond.
 
-Men richtte een adres aan den gouverneur van Archangel, prins Gragarin:
+Men richtte een adres aan den gouverneur van Archangel, prins Gagarin:
 maar hoewel hij hartelijk lachte om de bespottelijke bekrompenheid
 der havendirectie, liet hij toch de zaak zooals zij was: ook hij had
 omtrent dit punt geene instructie, en zijn persoonlijk belang was
@@ -536,9 +538,9 @@ der verdrukten en zwervelingen. In deze noordsche wildernissen wordt
 zijn naam door allen aangeroepen, vindt men zijn beeld in elke hut;
 maar nergens misschien wordt hij ijveriger en vuriger vereerd dan
 langs de kusten der Witte-zee. Met welk eene vrome blijdschap en
-innige zelfvoldoening leest de arme visscher dezer stranden in zijn
-_Levens der Heiligen_ (voor hem Bijbel, heldendicht, geschied- en
-wetboek tevens), dat Nikolaas de machtigste is van alle heiligen,
+innige zelfvoldoening leest de arme visscher dezer stranden in
+zijn Levens der Heiligen (voor hem Bijbel, heldendicht, geschied-
+en wetboek tevens), dat Nikolaas de machtigste is van alle heiligen,
 die in den hemel wonen; dat hij aan de rechterhand Gods is gezeten,
 en het bevel voert over een leger van driehonderd engelen, die,
 met het zwaard in de vuist, gereed staan op zijn wenken te vliegen!
@@ -580,7 +582,7 @@ rondwentelen. Elk dorp en elk gehucht is op de vooraf aangewezen plaats
 gebouwd; zij gelijken allen volkomen op elkander: vergeefs zoudt
 ge, in bouwtrant of inrichting, eenig spoor van oorspronkelijkheid
 zoeken. Alles geschiedt hier naar vastgestelde regels; de pope en
-de _starost_, keizerlijk ambtenaar, moeten in alle omstandigheden
+de starost, keizerlijk ambtenaar, moeten in alle omstandigheden
 geraadpleegd worden, en wat zij voorschrijven of aanraden, geldt
 als wet.
 
@@ -600,8 +602,8 @@ de rotsen der Heilige-eilanden. Stomme en toch welsprekende getuigen
 van doorgestanen angst en onverwachte uitredding: elk kruis herinnert
 aan een storm.
 
-Enkelen zijn inderdaad historische monumenten. In de hoofdkerk van
-Archangel bewaart men zulk een _ex-voto_, door Peter den Groote
+Enkelen zijn inderdaad historische monumenten. In de hoofdkerk
+van Archangel bewaart men zulk een ex-voto, door Peter den Groote
 opgericht, toen hij in deze streken ternauwernood aan een schipbreuk
 ontkwam; het werd later weggenomen en naar de kathedraal gebracht. "Dit
 kruis is door kapitein Peter gesneden", zoo luidt het opschrift,
@@ -622,7 +624,7 @@ van den russischen zeeman, getuigt zij niet van hoedanigheden, die,
 uit een zedelijk oogpunt, althans niet lager staan?
 
 Op de Dwina ontmoeten wij gansche vloten van houtvlotten en zoogenaamde
-_praams_, die ons een eigenaardig beeld van het leven in deze streken
+praams, die ons een eigenaardig beeld van het leven in deze streken
 vertoonen. De vlotten bestaan uit lange reeksen van pijnboomstammen,
 door middel van rijshout aan elkander verbonden; op het vlot staat
 eene planken hut, waarin de eigenaar rustig zit te dommelen, terwijl
@@ -761,9 +763,9 @@ u wellicht in het oor fluisteren,--als gold het een staatsgeheim,--dat
 indien er weinig vreemdelingen zijn, die de Dwina opvaren, daaronder
 toch geen enkele gevonden wordt, die verzuimen zou, aan den man,
 door wiens hulp hij aan de gevaarlijke zee der stormen is ontkomen,
-een _na-chai_ (kop thee) aan te bieden. Maar, ik haast mij er
-dit bij te voegen, de afschuwelijke, echt oostersche gewoonte,
-den ambtenaren bij de haven fooien in de hand te stoppen, is heden
+een na-chai (kop thee) aan te bieden. Maar, ik haast mij er dit
+bij te voegen, de afschuwelijke, echt oostersche gewoonte, den
+ambtenaren bij de haven fooien in de hand te stoppen, is heden
 ten dage in onbruik. De tegenwoordige regeering, die reeds zoovele
 hervormingen heeft tot stand gebracht, heeft ook dit kwaad uitgeroeid,
 en wel door een alleszins voortreffelijken maatregel. Zij heeft het
@@ -1078,8 +1080,8 @@ vroomheid. De kinderen zingen, op half klagenden toon, een lied,
 waarvan elk kouplet eindigt met dit refrein:
 
 
-    Goede vaders, teedre moeders,
-    Schenkt ons, armen, brood.
+                Goede vaders, teedre moeders,
+                Schenkt ons, armen, brood.
 
 
 En deze bede blijft nimmer onverhoord: de arme pelgrim, die,
@@ -1250,8 +1252,8 @@ toon zijner stem vernam, als hij van de engelsche vloot sprak.
 Ik liet echter niets merken, en vroeg hem: "Waar is uw schip, en hoe
 heet het?"
 
-"Het ligt te Solombola, nabij de kaai der Pelgrims. De naam is _la
-Verra_ (het Geloof)."
+"Het ligt te Solombola, nabij de kaai der Pelgrims. De naam is la Verra
+(het Geloof)."
 
 Deze zeer bijzondere scheepskapitein boezemt mij belangstelling in. Een
 anderen monnik, blijkbaar ook een zeeman, ontmoetende, vraag ik hem
@@ -1384,8 +1386,8 @@ gevaarlijke positie te redden.
 Daar hij zijn baard had afgeschoren en een valschen naam droeg, zou
 hij Archangel ook zeker weder hebben kunnen verlaten, zonder ontdekt
 te worden, indien hij zich, den avond vóór zijn vertrek, niet door
-eenige duitsche matrozen had laten verlokken om naar eene herberg te
-gaan. Twaalf jaren onthouding hadden hem de kracht van den _vodka_
+eenige duitsche matrozen had laten verlokken om naar eene herberg
+te gaan. Twaalf jaren onthouding hadden hem de kracht van den vodka
 doen vergeten: hij dronk te veel; en toen hij den volgenden morgen
 uit zijn roes ontwaakte, waren zijne kameraden vertrokken en had het
 schip de haven verlaten. Wat nu te doen? Vervoegde hij zich bij den
@@ -1457,7 +1459,7 @@ waar de reizigers over een plank van en naar boord moeten gaan.
 
 Het sierlijke vaartuig ligt op ons te wachten; de bazaanmast prijkt
 met een gouden kruis; aan den grooten mast wappert een kerkelijke
-banier. Op den voorsteven prijkt zijn naam, _Verra_, in zeer groote
+banier. Op den voorsteven prijkt zijn naam, Verra, in zeer groote
 gouden letters. Vader Johannes staat op het dek, en geeft met
 zachte stem zijne bevelen aan de officieren en matrozen, die voor
 het meerendeel monniken zijn; de luitenant, de hofmeester, de kok,
@@ -1528,7 +1530,7 @@ in de voorkajuit vergaderd. Eene zonderlinge karakteristieke groep,
 waaronder een schilder kostelijke typen zou kunnen vinden voor een
 Sint-Dominicus of een Johannes den Dooper. Hun kostuum en hunne taal
 bewijzen dat zij uit alle deelen van het groote rijk afkomstig zijn:
-uit Ukraine en Georgië, van het Oural-gebergte en de Krim, van de
+uit Ukraine en Georgië, van het Oeral-gebergte en de Krim, van de
 golf van Finland en de kusten der Gele-zee. Er zijn er onder hen,
 die om Archangel te bereiken, meer dan een jaar lang hebben gereisd,
 dwars door de kille sneeuwvelden van den winter, door de brandende
@@ -1563,8 +1565,8 @@ De volgende morgen brak aan in duisternis. Iemand verkondigt op het
 dek, dat de zon is opgegaan: maar niemand kan haar zien, want een
 dikke nevel omgeeft aan alle zijden de boot; wij vernemen niets dan
 het klagend huilen van den wind en het kletteren van den regen. De
-_Verra_ moet tegen den middag in de baai van Solowetsk zijn; maar
-reeds vroeg in den morgen deelt Vader Johannes mij in vertrouwen mede,
+Verra moet tegen den middag in de baai van Solowetsk zijn; maar reeds
+vroeg in den morgen deelt Vader Johannes mij in vertrouwen mede,
 dat hij blijde zal zijn, als wij voor vijf uur in de haven komen.
 
 En ook dit uur is reeds lang voorbij, en nog zijn wij niet aan de
@@ -1601,8 +1603,9 @@ Terwijl allen, met vurigen ijver, hunne gebeden opzeggen, varen wij
 langs eene schilderachtige kust, beurtelings met rotspartijen en groene
 dalen geschakeerd, tot wij een kanaal inloopen, waar zeehonden dartelen
 en duiven vliegen. Eindelijk, op een schoonen, kalmen Augustusmorgen,
-te acht uur, werpt de _Verra_ het anker uit in eene stille baai,
-onder de muren van het klooster.
+te acht uur, werpt de Verra het anker uit in eene stille baai, onder
+de muren van het klooster.
+
 
 
 
@@ -1640,14 +1643,14 @@ aangrijpend voor ons, na den doorworstelden bangen stormnacht.
 Terwijl wij, na aan land gestapt te zijn, langs de kaai voortwandelen,
 merken wij met genoegen overal de teekenen van leven en welvaart
 en beweging op. Lappen, Russen, Samojeden, lieden van allerlei
-nationaliteit en afkomst, loopen op de kaaien heen en weder: Solowetsk
-is niet alleen een gewijd oord, een soort van toovereiland, maar
-ook een brandpunt van beschaving. De aanlegplaats is ruim, de haven
-gemakkelijk en doelmatig ingericht. Aan onze rechterhand zien wij het
-dok, waarvan Vader Johannes met zoo billijken trots heeft gesproken. De
-_Hoop_, die eigenlijk voor het vervoer der pelgrims is bestemd, en
-daar ook veel beter voor geschikt is dan de _Verra_, waarmede wij
-den overtocht gedaan hebben, ligt daar onttakeld.--Ter linkerhand
+nationaliteit en afkomst, loopen op de kaaien heen en weder:
+Solowetsk is niet alleen een gewijd oord, een soort van toovereiland,
+maar ook een brandpunt van beschaving. De aanlegplaats is ruim, de
+haven gemakkelijk en doelmatig ingericht. Aan onze rechterhand zien
+wij het dok, waarvan Vader Johannes met zoo billijken trots heeft
+gesproken. De Hoop, die eigenlijk voor het vervoer der pelgrims is
+bestemd, en daar ook veel beter voor geschikt is dan de Verra, waarmede
+wij den overtocht gedaan hebben, ligt daar onttakeld.--Ter linkerhand
 verrijst het logement voor de vreemde gasten: een smaakvol, bevallig,
 sierlijk gebouw, dat gerust de vergelijking zou kunnen doorstaan met
 de fraaiste hotels aan de italiaansche meren. Verderop zien wij nog
@@ -2020,6 +2023,7 @@ aangeklaagde kloostervoogd naar elders wordt verplaatst.
 
 
 
+
 VIII.
 
 EENS PELGRIMSDAG TE SOLOWETSK.
@@ -2200,6 +2204,7 @@ slapende wakker, om de plichten van den nieuwen dag te vervullen.
 
 
 
+
 IX.
 
 BIDDEN EN WERKEN.
@@ -2319,8 +2324,8 @@ weverij, in een der torens van den buitenmuur: een toren, die niet
 alleen de bijzondere aandacht verdient om de uitnemendheid van het
 werk, dat hier vervaardigd wordt, maar ook om de belangrijke rol,
 die hij gespeeld heeft bij de verdediging van Solowetsk tegen de
-engelsche vloot. Het kanonschot, dat, naar men zegt, de _Brisk_
-tot wijken dwong, werd uit den Weverstoren afgevuurd.
+engelsche vloot. Het kanonschot, dat, naar men zegt, de Brisk tot
+wijken dwong, werd uit den Weverstoren afgevuurd.
 
 In een zonnig hoekje boven op den wal staat een sierlijk photographisch
 atelier; in de onmiddellijke nabijheid ziet ge eene reeks nieuwe
@@ -2345,13 +2350,13 @@ vervaardigen. Zij richten vuurtorens op, en bakenen het vaarwater af;
 zij timmeren booten en sloepen, en hebben het bewijs geleverd, dat op
 de werven van Solowetsk een stoomschip in al zijne deelen volledig
 kan worden gebouwd, alleen de machine uitgezonderd. Dit stoomschip
-heet _de Hoop_. Zijne bemanning bestaat hoofdzakelijk uit monniken;
+heet de Hoop. Zijne bemanning bestaat hoofdzakelijk uit monniken;
 en de gezagvoerder is niet alleen monnik--zooals vader Johannes--maar
 zelfs pope. Toen ik dezen priesterlijken schipper voor het eerst zag,
 bediende hij de mis voor het altaar. Na afloop van de dienst nam de
 eerwaarde vader mij mede, om mij zijn schip en het dok, waarin het
 vaartuig lag, te laten zien. Met levendige belangstelling bezocht ik
-_de Hoop_, merkwaardiger in mijn oog, dan bijkans eenig ander schip. Is
+de Hoop, merkwaardiger in mijn oog, dan bijkans eenig ander schip. Is
 toch niet eene stoomboot, door monniken aan de kusten der IJszee
 gebouwd, in hare soort eene even groote zeldzaamheid als de toren
 der Lieve-Vrouwekerk in Antwerpen of de Dom te Keulen? De gedachte om
@@ -2395,7 +2400,7 @@ blijven er minstens een jaar, en somwijlen langer. De inrichting der
 school is hoogst eenvoudig, en het onderwijs bepaalt zich tot het
 volstrekt noodige: trouwens de school is ook hier een getrouw beeld
 van den toestand des lands; voedsel en ligging verschillen niet veel
-van hetgeen ge in iedere _isba_ (boerenwoning) vinden kunt. Wanneer
+van hetgeen ge in iedere isba (boerenwoning) vinden kunt. Wanneer
 een knaap, na verloop van zijn leertijd, in het klooster wenscht te
 blijven, kan hij zich als werkman verhuren, hetzij op de landhoeven
 of bij de visscherij. In den zomer ontvangt hij het voedsel der
@@ -2411,6 +2416,7 @@ te vinden, want een jonkman, die eenige jaren te Solowetsk heeft
 doorgebracht, heeft niet alleen geleerd zich zelven te helpen, zijn
 eigen eten te bereiden en zijne kleederen te maken, maar verstaat
 ook altijd een of meer ambachten, waarmede hij den kost verdienen kan.
+
 
 
 
@@ -2573,7 +2579,7 @@ dag een kruis of een heiligenbeeldje te wachten had.
 Vooral bij den kleinen, neringdoenden burgerstand stond de kluizenaar
 in groot aanzien. De meer aanzienlijke dames hielden zich op een
 afstand: niet omdat hij geld van haar vroeg, maar omdat hij hare mooie
-kamers vuil maakte. De uiterlijke verschijning van deu vromen man was
+kamers vuil maakte. De uiterlijke verschijning van den vromen man was
 toch niets minder dan bevallig: maar zijne verregaande onreinheid,
 zijne verroeste ketting, zijne met stof en vuiligheid bedekte huid,
 zijne ongekamde haren, waren, in de oogen zijner trouwe volgelingen,
@@ -2707,7 +2713,7 @@ zij kreeg haar voedsel door een gat in de rots, en bracht twaalf
 jaren in dit levend graf door.
 
 Ongeveer veertig mijlen van Moskou, niet verre van de abdij van
-Troïtza, bevindt zich eene soort van monniken-kolonie, Grethsemané
+Troïtza, bevindt zich eene soort van monniken-kolonie, Gethsemané
 genaamd en bestaande uit een klooster en katakomben, door een meer van
 elkander gescheiden. Het klooster, een type van armoede en ellende,
 is van ruwe boomstammen opgetrokken, die ternauwernood geverfd
@@ -3034,19 +3040,19 @@ acht kleine veldstukjes op de torens en wallen geplaatst, waarna de
 monniken hunne gebeden hervatten.
 
 Den volgenden dag werd een donkere rookkolom in de heldere zomerlucht
-zichtbaar. De twee schepen, die weldra bleken de _Brisk_ en de
-_Miranda_ te zijn, stoomden de baai binnen. De _Brisk_ begon den
-aanval: zij vuurde met schroot op het klooster. Het scheelde weinig, of
-de archimandriet, die op de kaai stond, ware door een kogel getroffen;
-de monniken, verschrikt door het ratelend geschut, vloden naar het
-binnenplein, en sloten de heilige-poort achter zich toe.
+zichtbaar. De twee schepen, die weldra bleken de Brisk en de Miranda
+te zijn, stoomden de baai binnen. De Brisk begon den aanval: zij vuurde
+met schroot op het klooster. Het scheelde weinig, of de archimandriet,
+die op de kaai stond, ware door een kogel getroffen; de monniken,
+verschrikt door het ratelend geschut, vloden naar het binnenplein,
+en sloten de heilige-poort achter zich toe.
 
 Een zekere Drushlewski, een onderofficier, die met tien man en een
 kanon in den Weverstoren stond, beantwoordde het vuur der Engelschen;
 waarop het fregat, zich naar den toren keerende, dezen de volle laag
 gaf. Drushlewski raapte den hem toegeworpen handschoen op; maar
 daar hij slechts weinig buskruit had, spaarde hij zijne krachten
-en berekende zijne slagen. De _Brisk_ vuurde dertig malen; slechts
+en berekende zijne slagen. De Brisk vuurde dertig malen; slechts
 driemalen werd het kanon in den Weverstoren afgeschoten. Het laatste
 schot deed het engelsche fregat afdeinzen: de kogel was in de zijde
 van het schip gedrongen en had een man gedood.
@@ -3061,8 +3067,8 @@ in den russischen kalender: het was de feestdag van Onze-Lieve-Vrouwe
 van Kazan: een dag waarop in geheel Rusland geen ploeg door het land
 gedreven, geen fabriek geopend, geen school gehouden wordt. Evenals
 naar gewoonte, werden, ten half drie in den morgen, de metten in de
-kathedraal gezongen; juist was het _Te Deum_ geëindigd, toen een sloep,
-de witte vlag voerende, van de _Brish_ afstak en naar de kaai voer. Zij
+kathedraal gezongen; juist was het Te Deum geëindigd, toen een sloep,
+de witte vlag voerende, van de Brisk afstak en naar de kaai voer. Zij
 bracht een brief voor den archimandriet, waarbij de overgave van
 het klooster werd geëischt, met bepaling tevens dat de bevelhebber
 in persoon zijn zwaard moest overgeven, en dat het garnizoen
@@ -3151,9 +3157,9 @@ de monniken en pelgrims, de vrouwen en kinderen volgden, luide hunne
 lofzangen zingende.--En zie--de bommen en granaten der engelsche
 schepen weken van haar baan, dwarrelden boven de koepels en torens,
 en stortten neder in het Heilige-meer achter het klooster. Aller
-oogen aanschouwden het wonder; en uit aller harten steeg, met
-heilige ontroering, de dank tot onze- lieve- vrouwe, de machtige en
-zegepralende Panagia!
+oogen aanschouwden het wonder; en uit aller harten steeg, met heilige
+ontroering, de dank tot onze-lieve-vrouwe, de machtige en zegepralende
+Panagia!
 
 De fregatten hielden af en verwijderden zich, om niet weder terug
 te keeren; overwonnen en te schande gemaakt, hoewel niet door
@@ -3179,6 +3185,7 @@ broeder Constantijn is hem gevolgd; twee van 's keizers zonen zullen
 eerlang denzelfden tocht aanvaarden. Men zegt zelfs dat de keizerin
 de gelofte heeft afgelegd, het graf van Savatius te zullen bezoeken,
 indien de hemel haar hare gezondheid wedergeeft.
+
 
 
 
@@ -3236,30 +3243,29 @@ en de dertigjarige vervolging heeft niet anders uitgewerkt, dan
 dat de dissidenten heden ten dage talrijker, welvarender, vaster
 aaneengesloten zijn, dan toen keizer Nikolaas den troon beklom.
 
-Niemand in geheel Rusland zal durven beweren, dat hij de namen,
-het aantal aanhangers en de bijzondere geloofsartikelen van al deze
-sekten kent; veel minder, dat hij iets weet van haar ontstaan en
-verborgen ontwikkeling. Niet alleen wordt alles wat de _raskol_, de
-afscheiding, betreft, zooveel mogelijk geheim gehouden: maar ook de
-sekten zelf hullen zich zooveel zij kunnen in het duister. Volgens den
-minister van politie splitsen zij zich in vier hoofdgroepen, te weten:
-I de _Doukhobortzis_ of _Pneumatomaken_, worstelaars van den geest;
-II de _Malakhanys_, melkëters; III de _Khlystis_, geeselaars en IV
-de _Skoptzis_, eunuken of gesnedenen. [1]
+Niemand in geheel Rusland zal durven beweren, dat hij de namen, het
+aantal aanhangers en de bijzondere geloofsartikelen van al deze sekten
+kent; veel minder, dat hij iets weet van haar ontstaan en verborgen
+ontwikkeling. Niet alleen wordt alles wat de raskol, de afscheiding,
+betreft, zooveel mogelijk geheim gehouden: maar ook de sekten zelf
+hullen zich zooveel zij kunnen in het duister. Volgens den minister
+van politie splitsen zij zich in vier hoofdgroepen, te weten: I de
+Doukhobortzis of Pneumatomaken, worstelaars van den geest; II de
+Malakhanys, melkëters; III de Khlystis, geeselaars en IV de Skoptzis,
+eunuken of gesnedenen. [1]
 
 Het is misschien niet gemakkelijk, het in opzettelijke zelfmisleiding
-verder te brengen, dan in deze officiëele lijst geschiedt. Vier
-groepen alzoo, en niet meer? Maar de waarheid is, dat de russische
-_raskolniken_ (dissenters, afgescheidenen) zich wel in honderd
-sekten verdeelen. Ook de rangschikking is zonderling, en berust op
-geen enkelen redelijken grond. De _Worstelaars van den geest_, die
-het eerst worden genoemd, zijn noch eene oude, noch eene machtige
-sekte. De _Melkëters_ zijn van lateren oorsprong dan de _Geeselaars_
-en de _Gesnedenen_; ook dragen deze beide laatste sekten een geheel
-ander karakter dan de beide eerstgenoemden, die, in sommige opzichten,
-met de Methodisten en Puriteinen zijn te vergelijken. De Khlystis zijn
-niet zoo talrijk als de Skoptzis, hoewel zij hoogstwaarschijnlijk de
-Doukhobortzis in aantal overtreffen.
+verder te brengen, dan in deze officiëele lijst geschiedt. Vier groepen
+alzoo, en niet meer? Maar de waarheid is, dat de russische raskolniken
+(dissenters, afgescheidenen) zich wel in honderd sekten verdeelen. Ook
+de rangschikking is zonderling, en berust op geen enkelen redelijken
+grond. De Worstelaars van den geest, die het eerst worden genoemd, zijn
+noch eene oude, noch eene machtige sekte. De Melkëters zijn van lateren
+oorsprong dan de Geeselaars en de Gesnedenen; ook dragen deze beide
+laatste sekten een geheel ander karakter dan de beide eerstgenoemden,
+die, in sommige opzichten, met de Methodisten en Puriteinen zijn
+te vergelijken. De Khlystis zijn niet zoo talrijk als de Skoptzis,
+hoewel zij hoogstwaarschijnlijk de Doukhobortzis in aantal overtreffen.
 
 De oorsprong der Khlystis moet wellicht in de dertiende of veertiende
 eeuw worden gezocht; niemand schijnt daarvan met juistheid iets te
@@ -3267,8 +3273,8 @@ weten; volgens sommigen zou de sekte in de eerste jaren van tsaar
 Alexis Michaelowitsch, dat is dus omstreeks de helft der zeventiende
 eeuw, zijn ontstaan. Zij zelf noemen Christus als de stichter hunner
 sekte. De Skoptzis zijn nog ouder; zij zijn zeer talrijk en over het
-algemeen zeer vermogend, maar houden zorgvuldig alles wat hun geloof en
-hunne gebruiken betreft, geheim. Zij noemen zich zelf _Beliegolubis_,
+algemeen zeer vermogend, maar houden zorgvuldig alles wat hun geloof
+en hunne gebruiken betreft, geheim. Zij noemen zich zelf Beliegolubis,
 witte duiven, en gelooven, naar het schijnt, aan eene voortdurende
 incarnatie van Christus: een dezer laatste verschijningen van den
 Heiland was, volgens hen, tsaar Peter III, dien zij allen bijzondere
@@ -3320,7 +3326,7 @@ naam aan, en hielden te zamen een plechtig feest. Dit gebeurde midden
 in den winter, op asch-woensdag, 26 Februari, toen de wateren van de
 Wolga met ijs waren bedekt, waarin gaten gehouwen moesten worden.--Deze
 nieuwe apostelen der waarheid geven zich zelf den bescheiden naam van
-_kleine-christenen_. Zij hebben geen priesters, geen formulieren, geen
+kleine-christenen. Zij hebben geen priesters, geen formulieren, geen
 beelden; gebruiken geen hostiën en geen gewijde olie. In plaats van
 het gewijde brood, eten zij een soort van koeken, in vorm en omvang
 aan een half-stuivers broodje gelijk, die zij als een bijzondere gave
@@ -3380,9 +3386,9 @@ dat zij geen onbepaalde bewonderaars waren van de organisatie der
 landelijke gemeenten, maar een ander stelsel wenschten, dat meer ruimte
 liet voor de betooning van rechtvaardige en waarlijk godsdienstige
 onderlinge liefde en behulpzaamheid. Men gaf hun om die reden den
-naam van _Helpers_. Maar hun voornaamste misdaad was toch altijd
-hunne minachting voor de kerkelijke ceremoniën, en hun zucht voor
-huiselijke godsdienstoefening, zonder inmenging van den pope.
+naam van Helpers. Maar hun voornaamste misdaad was toch altijd hunne
+minachting voor de kerkelijke ceremoniën, en hun zucht voor huiselijke
+godsdienstoefening, zonder inmenging van den pope.
 
 De gouverneur van Kherson aarzelde geen oogenblik wat te doen:
 hij liet de gevangenen aanstonds in vrijheid stellen. De monniken
@@ -3525,9 +3531,9 @@ een der Siberische mijnen zullen slijten.
 
 
 
-Te Moskou verhaalde men mij van een sekte, die zeker wel
-de zonderlingste van allen mag worden genoemd: de zoogenaamde
-_Napoleonisten_. Hun haat tegen het rijk en de officiëele kerk heeft
+Te Moskou verhaalde men mij van een sekte, die zeker wel de
+zonderlingste van allen mag worden genoemd: de zoogenaamde
+Napoleonisten. Hun haat tegen het rijk en de officiëele kerk heeft
 hen er toe gebracht, den geduchtsten vijand, dien Rusland in de
 laatste tijden gehad heeft, Napoleon I, als een soort van messias,
 als een beschermgod van het Slavonische ras, te vereeren. Natuurlijk
@@ -3547,6 +3553,7 @@ zal hij te zijner tijd wederkomen, aan de onderlinge twisten der vele
 sekten een einde maken, zich aan de spitse van een machtig leger
 stellen, en de aanhangers van Satan, dat wil zeggen de regeerende
 dynastie en hare dienaren, slaan met de scherpte des zwaards.
+
 
 
 
@@ -3609,8 +3616,8 @@ van het volk tot ons behooren." Voor zoover mijne eigen ervaring
 reikt, ben ik geneigd, dien priester gelijk te geven. Een Duitscher,
 die dertig jaren in Rusland heeft gewoond en het volk goed kende,
 maar, als Lutheraan, vreemd is aan de onderlinge twisten der sekten,
-schrijft mij dienaangaande: "Mijne ondervinding heeft mij geleerd, dat,
-de bevolking in haar geheel genomen, _vier_ van de _vijf_ menschen òf
+schrijft mij dienaangaande: "Mijne ondervinding heeft mij geleerd,
+dat, de bevolking in haar geheel genomen, vier van de vijf menschen òf
 nu reeds oud-geloovigen zijn, òf zich de volgende week daarbij zouden
 aansluiten, indien zij slechts de zekerheid hadden dat de regeering
 hen met vrede zou laten." Dit houd ik voor overdrijving; maar ik word
@@ -3692,7 +3699,7 @@ middelbaren leeftijd en van een streng somber uiterlijk, aan het
 klooster te Solowetsk, om op het graf van den heiligen Filippus
 te bidden en een schuilplaats bij de monniken te vragen. Naar zijn
 zeggen, was hij de zoon van een boerenarbeider uit een dorp nabij
-Nisjny-Nowgorod, zelf ook landbouwer en gehuwd. In zijne jeugd had
+Nishny-Nowgorod, zelf ook landbouwer en gehuwd. In zijne jeugd had
 hij eenigen tijd in een klooster doorgebracht; en na tien jaren in den
 echtelijken staat te hebben geleefd, had hij zijne vrouw overgehaald,
 den sluier te nemen en de bruid des Heeren te worden. Hij had haar in
@@ -3872,7 +3879,7 @@ hij ook niet rooken."
 
 "Zijn dat dan alle kenmerken van een oud-geloovige?"
 
-"Ja; althans in deze noordelijke streken. Te Moskou, Nisjny en Kazan
+"Ja; althans in deze noordelijke streken. Te Moskou, Nishny en Kazan
 is men minder nauwgezet--vooral wat het drinken en rooken betreft;
 de kozakken van den Don zijn op die punten nog ruimer van geweten."
 
@@ -3893,6 +3900,7 @@ grootste helft der kozakken aan hunne oude liturgie getrouw gebleven;
 en de vrees van hen, door te sterke pressie, tot verzet te prikkelen,
 heeft in den laatsten tijd de regeering bewogen, meer verdraagzaamheid
 in acht te nemen."
+
 
 
 
@@ -3922,7 +3930,7 @@ in den bepaalden tijd volbracht. Van Archangel naar Wietegra, een
 afstand van achthonderd wersten, heb ik vijf á zes dagen en nachten
 met postpaarden te rijden door een onmetelijk woud van beuken en
 dennen. Hier beginnen mijne tribulatiën. Eerst, gehaspel met de politie
-over mijn _podorodjna_, een soort van pas, door de politie afgegeven,
+over mijn podorodjna, een soort van pas, door de politie afgegeven,
 en waarbij den reiziger het recht wordt toegekend om, tegen een
 bepaalden prijs, aan de posthuizen paarden te vorderen. Men begrijpt
 niet, waarom ik niet, als iedereen, met een boot de Dwina opvaar, in
@@ -4256,6 +4264,7 @@ op, en maken alzoo de sombere vervelende wegen tot lichtende sporen,
 die de gedachten ten hemel heffen.
 
 Wij houden stil in een dorp, aan den oever van een klein donker meer.
+
 
 
 
@@ -4625,13 +4634,13 @@ er huisgezinnen in het dorp zijn, waarbij tevens gelet wordt op de
 hoedanigheid van den grond en den meerderen of minderen afstand van
 de woning.
 
-Maar evenals de behoeften, waarin voorzien moest worden, verder
-reiken dan het dorp, zoo heeft ook het beginsel van associatie
-zijne werking verder uitgestrekt. Acht of tien gemeenten vereenigen
-zich, en vormen te zamen een soort van kanton of kerspel; tien of
-twaalf kantons vormen op hunne beurt een _wolost_ of distrikt. Deze
-afdeelingen hebben wederom haar eigen bestuur en organisatie, en zijn
-ook metterdaad zelfstandige republieken.
+Maar evenals de behoeften, waarin voorzien moest worden, verder reiken
+dan het dorp, zoo heeft ook het beginsel van associatie zijne werking
+verder uitgestrekt. Acht of tien gemeenten vereenigen zich, en vormen
+te zamen een soort van kanton of kerspel; tien of twaalf kantons
+vormen op hunne beurt een wolost of distrikt. Deze afdeelingen hebben
+wederom haar eigen bestuur en organisatie, en zijn ook metterdaad
+zelfstandige republieken.
 
 Sinds overoude tijden zijn de leden dezer landelijke democratiën in het
 bezit van zekere rechten, waarvan de oorsprong misschien betwistbaar
@@ -4648,9 +4657,9 @@ patriarchale huisgezin, en daarom in het bezit van rechten en
 bevoegdheden, die de keizer niet gegeven heeft, en die hij ook niet
 durft ontnemen.
 
-Het dorpsopperhoofd voert den titel van oudste, _starosta_. Hij
-wordt door de boeren uit hun midden gekozen, en wel voor den tijd
-van drie jaren; echter brengt de gewoonte mede, dat hij na verloop
+Het dorpsopperhoofd voert den titel van oudste, starosta. Hij wordt
+door de boeren uit hun midden gekozen, en wel voor den tijd van
+drie jaren; echter brengt de gewoonte mede, dat hij na verloop
 van dien tijd weder herkozen wordt; en het is niet zeldzaam dat
 iemand deze waardigheid van zijn veertigste jaar tot aan zijn dood
 bekleedt. Ieder is als starost verkiesbaar: maar de regel is dat de
@@ -4798,7 +4807,7 @@ aankweeking van dien orde- en vredelievenden, waarlijk conservatieven
 geest, die een onmisbaar element is in iedere maatschappij. Er
 is misschien geen volk op aarde, dat meer dan het russische aan
 oude inzettingen en gebruiken is gehecht, en vuriger den vrede
-wenscht. Waar ieder landbezitter is, daar is uit den aard derzaak
+wenscht. Waar ieder landbezitter is, daar is uit den aard der zaak
 de kanker van het pauperisme onbekend; en Rusland heeft dan ook tot
 dusver weinig of geen behoefte gevoeld aan armenwetten en werkhuizen,
 want de noodlottige kwaal, die men met deze toch altijd onvoldoende
@@ -4842,6 +4851,7 @@ burgers van de naburige stad, een zeer groot verschil.
 
 
 
+
 XVI.
 
 DE STEDEN--KIEW.
@@ -4860,7 +4870,7 @@ is groen of rooskleurig geschilderd, en die straten zijn ruim en
 netjes onderhouden. De stad is niet vrij, en heeft niet het recht,
 zich zelf naar eigen inzettingen te besturen: zij staat rechtstreeks
 onder het gezag der regeering; het dorp is eene kleine republiek, de
-stad is een onderdeel van bet rijk en als zoodanig aan de algemeene
+stad is een onderdeel van het rijk en als zoodanig aan de algemeene
 rijkswet ondergeschikt.
 
 Met uitzondering van vijf of zes groote hoofdsteden, vertoonen
@@ -4965,10 +4975,10 @@ die gij ontmoet. De tegenwoordige keizer heeft den brandewijn--waarvan
 de verkoop een staatsmonopolie is--met water doen aanlengen, en den
 prijs van een glas op vijf kopeks in plaats van vijftien bepaald. Die
 verandering valt niet in den smaak der echte drinkebroers, die hun
-aangelengden brandewijn minachtend _dechofka_--een koopje--noemen; maar
+aangelengden brandewijn minachtend dechofka--een koopje--noemen; maar
 eenvoudiger zielen zijn den tsaar dankbaar voor zijne gave. "Is hij
 niet goed, onze tsaar, zeggen zij, dat hij ons drie glazen geeft voor
-hezelfde geld als vroeger een glas kostte?"--Toch, hoe slap hij wezen
+hetzelfde geld als vroeger een glas kostte?"--Toch, hoe slap hij wezen
 moge, is eene betrekkelijk kleine hoeveelheid brandewijn voldoende om
 den Rus van de been te helpen; want zijn maag is leeg, zijne zenuwen
 zijn verslapt, en zijn bloed is arm. Ware hij beter gevoed, dan zou
@@ -5047,7 +5057,7 @@ Antonius, Feodosius en hunne volgelingen, zich in de rots cellen
 en woningen uitgehouwen, waar zij jaren lang een godzalig leven
 leidden en als heiligen stierven. De plaats waar deze onderaardsche
 woningen werden aangelegd, ontving den naam van Petchersk naar
-het woord _petchera_, dat kelder beteekent. Mettertijd verrezen
+het woord petchera, dat kelder beteekent. Mettertijd verrezen
 twee kloosters boven die cellen, waar de vrome kluizenaars hadden
 geleefd; die kloosters werden aan Antonius en Feodosius gewijd, nu
 de beschermheiligen van Kiew geworden, en weldra alom vereerd als de
@@ -5143,6 +5153,1713 @@ het verleden van Rusland sedert de laatste anderhalve eeuw, tegelijk
 alle denkbeelden en vorderingen der westersche beschaving hardnekkig
 verwerpen, en een onmogelijke hersenschim najagen, waaraan zij alle
 wezenlijke en praktische verbeteringen en hervormingen opofferen.
+
+
+
+
+XVII.
+
+DE BALLINGSCHAP.--DE SIBERIËRS.
+
+
+De jongste opstand in Polen was gedempt, en wederom werden gansche
+scharen van gevangenen naar de uiterste grenzen van het rijk,
+naar Archangel, naar den Kaukasus en Siberië gevoerd. Echter heeft
+de tegenwoordige regeering het deportatie-stelsel aanmerkelijk
+verzacht; en de openbare werken van Archangel hebben voor een poos
+de plaats ingenomen, die vroeger, in de publieke opinie, aan de
+beruchte mijnen van Siberië toekwam. Meen echter niet dat de groote
+aziatische wildernis als plaats van verbanning is opgegeven: nog altijd
+worden vele groote misdadigers en ook enkele ongelukkige staatkundige
+overtreders naar gene zijde van den Oeral gezonden. Maar het stelsel
+is in den laatsten tijd aanmerkelijk gewijzigd en verzacht; en de
+naam van Siberië boezemt ook niet meer dien geheimzinnigen schrik
+in, die vroeger daaraan onafscheidelijk was. Het is volstrekt geen
+zeldzaamheid, geheele scharen van jongelieden te ontmoeten, die van
+Mesen en Archangel uitgaan om de hellingen van den Oeral te beklimmen,
+en hunne fortuin te gaan beproeven in Siberië.
+
+De wetenschap heeft, immers voor een groot deel, de gewaande
+verschrikkingen, die Siberië als een duistere nevel omhulden,
+verdreven. Gemeenschapswegen zijn geopend en hebben met de inlandsche
+stammen nadere betrekkingen aangeknoopt. Tomsk, waarvan de naam alleen
+vroeger het bloed in de aderen verstijven deed, is nu gebleken eene
+fraaie, aangename stad te zijn, schilderachtig gelegen in eene groene
+vallei, aan den voet van statige heuvelen. Zij ligt niet ver van
+Perm, dat bijna als eene verwijderde voorstad van Kazan kan worden
+beschouwd. Binnen weinige maanden zal de spoorweg, die Perm met Tomsk
+moet verbinden, gereed zijn.
+
+Ook is men langzamerhand tot de overtuiging gekomen, dat aan eene
+strafkolonie geen lang leven is bereid, of althans dat zij vrij
+spoedig haar eigenlijk karakter verliezen moet. De mensch kan zich
+overal eene woning bereiden: en zoodra die woning inderdaad de zijne
+is, zijn eigen huiselijke haard, heeft zij ook daardoor opgehouden
+zijn kerker te zijn. Het ligt in den aard van iedere strafkolonie,
+dat zij eindelijk een gevaar oplevert voor het moederland: en een door
+Polen bevolkt Siberië zou voor het russische rijk eene voortdurende
+bedreiging zijn, een tweede Polen in het oosten. Zelfs nu zien sommige
+al te bezorgde lieden met bekommering den tijd te gemoet, dat de
+zonen der staatkundige ballingen alle invloedrijke posten in Azië
+zullen bekleeden, en verbeelden zij zich dat Siberië eenmaal Rusland
+behandelen zal, zooals de Vereenigde-Staten Engeland hebben behandeld.
+
+De ballingen, die naar de grenzen gezonden worden, behooren tot alle
+rangen en standen der maatschappij: edelen en burgers, geestelijken
+en leeken, staatkundige misdadigers, moordenaars, bandieten, ketters,
+valsche munters, scheurmakers; zij zijn of door den keizer, of door
+de rechtbanken, of door de kerk veroordeeld. Zij, die op bevel van
+den minister van politie of van den gouverneur eener provincie worden
+gedeporteerd, worden niet in de gevangenis geworpen en ook niet tot
+dwangarbeid verplicht. Zij staan tot op zekere hoogte onder toezicht
+der politie; hunne namen worden in bijzondere registers ingeschreven,
+en van tijd tot tijd moeten zij zich aan het politiebureau
+aanmelden. Verder zijn zij vrij. Gij ontmoet hen in gezelschap,
+en niets verraadt dat zij ballingen zijn, tenzij de meerdere
+ontwikkeling van hun geest, en zekere voorzichtige terughouding in
+hunne gesprekken. Zij die geen eigen middelen bezitten, oefenen het
+beroep uit, waarvoor zij zijn opgeleid. Sommigen geven onderwijs in
+muziek of talen; anderen vestigen zich als geneesheer of advokaat;
+zeer velen zijn als secretarissen of klerken op de regeeringsbureaux
+werkzaam. Ook bekleeden een aantal dezer gedeporteerden verschillende
+betrekkingen in de dorpsbesturen. Op een mijner rijtoertjes bezocht
+ik een twaalftal dorpen, waar al de vrederechters Polen waren.
+
+Niet minder dan drieduizend opstandelingen, met de wapens in de hand
+te Warschau gevangen genomen, werden naar Archangel gezonden. Sterk
+door hun aantal, werden zij zoo overmoedig, dat een oproer onder hen
+dreigde uit te barsten. De gouverneur liet in alle haast troepen uit
+de aangrenzende provinciën komen; en het departement van oorlog zag
+zich verplicht al de pruisische en oostenrijksche Polen, die men in de
+eerste overhaasting naar de kusten der IJszee had gedeporteerd, vandaar
+te verwijderen. Zij waren ingekwartierd in een groot geel gebouw,
+dat vroeger, voor de overbrenging van het marine-etablissement naar
+het zuiden, als tuighuis had gediend; hun lot, schoon hard genoeg,
+was toch niet ongelukkiger dan dat der bevolking in wier midden
+zij leefden. De officieren, die hunne dapperheid op prijs wisten te
+stellen, behandelden hen met veel onderscheiding; zij mochten in hunne
+vertrekken bezoeken ontvangen van eene commissie van te Archangel
+gevestigde vreemdelingen. Hunne voeding liet niets te wenschen over;
+en meer dan een arme schildwacht, die met het geweer in den arm voor
+hunne deur stond, zal wel eens benijdende blikken hebben geworpen op
+hunne overvloedige portiën soep en brood. Bij gedeelten zijn deze
+gevangenen achtereenvolgens naar hunne haardsteden teruggevoerd:
+sommigen mochten in den schoot hunner familie wederkeeren, anderen
+alleen in de provincie, waar zij vroeger woonden. Zeer velen zijn
+onvoorwaardelijk in vrijheid gesteld geworden; anderen mochten naar
+Polen terugkeeren, behoudens deze ééne voorwaarde, dat zij niet naar
+Warschau zouden gaan. Honderd misschien zijn nog in het arsenaal
+achtergebleven, wachtende tot ook voor hen het uur der bevrijding zal
+slaan. Hun lot is hard, voorzeker; maar in welk land is het lot van
+een staatkundigen gevangene niet hard? In Virginië? of in Ierland? of
+in Frankrijk?
+
+Deze gevangenen worden nauwkeurig bewaakt, en de kansen van ontsnapping
+zijn uiterst gering; ternauwernood zal het, in twaalf jaar, een
+enkelen avonturier gelukken te ontkomen. Een onverschrokken Pool, die
+veiligheidshalve naar de vesting Mesen, in plaats van naar Archangel,
+een open stad, was gezonden, wist de waakzaamheid zijner wachters
+te verschalken; sloop door de dichte pijnbosschen naar de zeekust;
+hield zich in het woud verborgen, tot hij gelegenheid vond zich van
+een visscherssloep meester te maken, en stak met dit brooze vaartuig
+in zee, in de hoop van door een engelsch of zweedsch schip te worden
+opgenomen. Vier dagen en vier nachten zwierf hij op de open zee,
+tot in het gebeente verstijfd door den kouden adem van den ijzigen
+noordschen nevel, en bovendien ten prooi aan de martelingen van honger
+en dorst, tot hem de krachten ontzonken om de riemen te omklemmen. Nu
+werd hij door het getij op het strand geworpen; tot stervens uitgeput,
+mocht hij nog dankbaar zijn dat hij zijne vrijheid weder voor een stuk
+brood inruilen kon. Toen de officier, aan wien het onderzoek der zaak
+was opgedragen, te Mesen kwam, vond hij den ongelukkige half dood in
+de gevangenis.
+
+Uitgenomen het gedwongen verblijf in een vreemd en akelig land,
+worden de poolsche opstandelingen, naar het schijnt, niet slecht
+behandeld. Hun arbeid is niet zwaar, en hun daggeld hooger dan
+dat der soldaten, die hen bewaken; sommigen, van hooger stand
+en ontwikkeling, mogen in de steden als bedienden en schrijvers
+werkzaam zijn. Vroeger mochten zij ook onderwijs geven in het dansen,
+in muziek, in talen: maar deze vergunning is ingetrokken, op grond dat
+zij meermalen misbruik hebben gemaakt van het vertrouwen der familiën,
+waarmede zij op die wijze in aanraking kwamen. Laat men deze poolsche
+malcontenten vrijelijk met de andere ingezetenen omgaan, dan is het
+inderdaad ook niet gemakkelijk, hun invloed op de publieke opinie
+te keeren; en al spoedig kunnen zich dan verschijnselen voordoen,
+die eene argwanende politie recht geven tot de bewering dat de jeugd
+bedorven wordt. Over het geheel genomen, staat toch de Pool hooger
+dan de Rus. Hij is beter ontwikkeld, heeft grooter rijkdom van
+denkbeelden, meer vindingskracht en scherpzinnigheid, en is beter
+vertrouwd met de praktijk des levens. Zoodra hij zich ongehinderd
+te midden zijner omgeving bewegen kan, is hij weldra, onwillekeurig
+en als vanzelf, aller leidsman geworden. Hij kan hunne halfduistere
+wenschen en begeerten onder woorden brengen, en hun den weg wijzen
+om ook handelend op te treden. Gevangene, wordt hij klerk; balling,
+wordt hij opzichter, onderwijzer--in één woord een voorganger. Zendt
+men hem naar eene verwijderde provincie, dan zal hij ook daar, langzaam
+maar zeker, zijne plaats weten in te nemen. Geen bevelschrift van de
+politie kan hem zijne bekwaamheid ontnemen; en wanneer de straftijd is
+afgeloopen, blijft hij als burger in de stad, waar hij een werkkring
+gevonden heeft en misschien een huisgezin gegrondvest. Wellicht zal
+hij een professoralen leerstoel bekleeden, of als rechter zitting
+nemen; is hij militair geweest, dan wordt hij misschien bij den staf
+van den generaal geplaatst.
+
+Gedurende al dien tijd en ondanks al die veranderingen, laat hij
+toch zijne hoop niet varen; in zijn hart blijft hij een Pool, en
+de zoete droom der onafhankelijkheid, die hem reeds eenmaal zijne
+vrijheid kostte, zweeft nog steeds voor zijn geest. Het land, dat
+hem in dienst genomen heeft, kan nooit op hem rekenen. Komt er een
+ure van gevaar, dan zal hij wellicht tot den vijand overloopen, en
+van de hem verleende macht gebruik maken om de regeering doodelijk
+te treffen. Zij kan hem nooit vertrouwen; zij ducht zijn tact, zijn
+gevatheid, zijn geschiktheid voor den arbeid. Inderdaad kan zij hem
+niet gebruiken, en toch ook wederom niet missen.
+
+De Polen, die, na jaren ballingschap, weder in vrijheid zijn gesteld,
+beginnen eene klasse op zichzelve, met hare eigene deugden en
+hoedanigheden, te vormen:--deugden en hoedanigheden, die de natuurlijke
+vrucht zijn, door bittere ondervindingen en lijden in dichterlijke
+en prikkelbare naturen gerijpt. Deze lieden zijn bekend onder den
+naam van de Siberiërs. Een Pool, met wien ik eenige dagen reisde,
+behoorde mede tot hen; en van hem vernam ik eenige bijzonderheden,
+die mij ook deze zijde van het eigenaardige leven der ballingschap
+beter leerden kennen.
+
+Mijn reismakker had eenige dichtregelen van een poolschen poëet
+aangehaald. Hij is ook een der Siberiërs, zeide hij.
+
+"Een van de Siberiërs?"
+
+"Ja, hernam de Pool. In die gewesten woont een volk, waarvan de wereld
+ternauwernood iets weet; een nieuw volk, mag ik wel zeggen: want
+terwijl zij, wat het uiterlijk betreft, op de krijgslieden gelijken,
+die weleer met Sobieski onder de muren van Weenen de Turken versloegen,
+zijn zij naar den geest verwant aan de lijdzame en arbeidzame monniken,
+die de heiligdommen van Solowetsk hebben gesticht. De tijd heeft hun
+zijn machtigen invloed doen gevoelen en hen gerijpt. Kalm en ernstig,
+zijn zij bij ons bekend onder de naam van de Siberiërs."
+
+"Zijn zij van geboorte Polen?"
+
+"Ja; en niet alleen door geboorte, ook naar geest en gemoed zijn zij
+Polen. Het zijn onze zonen, die de vuurproef hebben ondergaan; onze
+zonen, die wij nooit hadden gehoopt, aan deze zijde des grafs weder
+te zien. Eens spraken wij van hen als van onze verloren kinderen. Als
+vrienden in Polen van elkander afscheid nemen, dan is maar al te
+dikwijls hun laatste woord: "Wij zien elkander nooit weer!"--En
+vele jaren lang was zulk een afscheid ook meest voor eeuwig. Een
+balling, die eenmaal over den Oeral was getrokken, keerde nimmer
+terug; hij was voor ons als gestorven; wij rekenden hem tot onze
+verloren kinderen. Heden is die droevige afscheidsgroet niet meer
+dan eene herinnering aan het verledene; een nagalm van het lied,
+aan de wateren van Babylon gezongen. Te Wilna, te Kazan, te Kiew,
+in een aantal andere, ver van elkander verwijderde steden, zult gij
+volkplantingen van Polen aantreffen, gelukkig en tevreden in den schoot
+van hun gezin, en die uit het oord hunner verbanning zijn weergekeerd;
+mannen van hooge geboorte en van nog hooger ontwikkeling; mannen,
+die door de sneeuwvelden van Tomsk hebben gewaad, en naar het Westen
+zijn teruggekomen, met een gelouterd hart, met een ernstig gestemden,
+maar niet gebroken geest."
+
+"Hebben zij zich, na de amnestie, met den keizer verzoend?"
+
+"Zij hebben zich met God verzoend. Versta mij wel. Niemand twijfelt
+er aan, dat de tegenwoordige keizer een braaf en edel man is,
+rechtschapen genoeg om zijn plicht te kennen, en vast genoeg van
+wil en karakter, om dien ook te volbrengen, hoevele moeilijkheden
+en bezwaren hij ook op zijn weg moge ontmoeten. Maar God is meer dan
+allen, en zijn Zoon stierf voor ons allen; Alexander is niet meer dan
+een werktuig in zijne handen. Gij zult mij voor een mystieken dweeper
+houden. Omdat mijne landgenooten nog aan eene hoogere macht gelooven,
+worden zij door de Franken, die in niets meer gelooven, als droomers
+en spiritualisten bespot. Het zij zoo. Wij droomen onze droomen,
+wij achten op de teekenen der tijden, wij nemen onze godsdienst waar,
+wij eerbiedigen onze kerk, wij gehoorzamen onzen God."
+
+"Men heeft mij meermalen de Polen beschreven als vrouwen in de
+vroomheid, als helden in den slag."
+
+"Evenals al de jongelieden van mijn kring,--vervolgde hij, na
+eene pauze,--nam ik deel aan den opstand van '48: eene ongelukkige
+onderneming, die noch poolsch noch slavisch was. Die opstand was
+uitsluitend het werk der Franschen. In mijne jeugd had ik, met een
+vriend, het westen van Europa doorreisd; wij hadden aan de oevers van
+den Rijn en de Seine vertoefd, waar wij de godsdienst onzer moeders
+en van ons vaderland leerden vergeten, en over Polen begonnen te
+spreken als over een tweede Frankrijk. Wij noemden ons republikeinen,
+en hielden ons overtuigd, dat wij groote wijsgeeren waren; maar onze
+afgod was Napoleon de Groote, onder wiens banier zoovelen onzer
+landgenooten hun leven ten offer brachten. Wij haatten den tsaar,
+en verfoeiden de Russen met geheel ons hart. Twee jaar voordat de
+republiek in de straten van Parijs werd uitgeroepen, keerden wij
+naar Warschau terug, in de hoop spoedig eene gelegenheid te zullen
+vinden om de wapens tegen den tsaar te voeren. Maar de mogendheden
+waren ons vóór geweest: op denzelfden  dag, waarop ik voor de deur
+mijner ouderlijke woning uit de tarantasse stapte, werd Krakau,
+de laatste onzer vrije steden, bij Oostenrijk ingelijfd. Frankrijk
+vleide en misleidde ons, met betuigingen van sympathie en beloften
+van hulp; en in de geheime samenkomsten, waar onze jonge vrienden
+zich vereenigden, moesten onze goede oude poolsche psalmen en spreuken
+achterstaan voor de liederen en wachtwoorden van Parijs. Weleer zongen
+wij Het Kind van Bethlehem: maar nu, nu wij onze hoop op vreemde
+hulp hadden gesteld, nu hieven wij het oproerlied der Marseillaise
+aan. Wij waren vreemdelingen geworden in ons eigen land, en het
+hart onzes volks was niet met ons. De vrouwen trokken zich terug; de
+geestelijkheid sloeg ons met wantrouwen gade; maar wij lachten over
+de onpopulariteit onzer nieuwe leuzen. Wij maakten ons zelven diets,
+dat wij die priesters en bekrompen dwazen best konden missen; mannen,
+die altijd slaven, vrouwen die altijd dupes waren: wat golden zij
+ons! En wat de groote menigte der burgers aangaat: die bakkers en
+kruideniers,--op hen zagen wij met voorname minachting neder. Wie
+had ooit gehoord, dat eene omwenteling door kaarsenmakers tot een
+goed einde was gebracht? Wij waren edellieden: hoe zouden wij dan de
+hulp en medewerking van zulke lieden kunnen aannemen?--Eindelijk kwam
+het uur der droeve ontgoocheling. Dat Frankrijk, waarop de oogen van
+iederen poolschen patriot met angstige spanning waren gevestigd, had
+de republiek uitgeroepen: op deze tijding wierp een troep vroolijke
+gasten, die met uitnemend talent een polka konden dansen, zich op de
+russische kanonnen.... om dadelijk te worden weggemaaid. In de straat
+onder den voet geraakt en gekwetst, werd ik in een huis gedragen;
+en nadat mijne wonden waren verbonden, werd ik met een honderdtal
+anderen naar het koninklijk slot gevoerd, om daar terecht te staan
+voor een krijgsraad, die ons vervallen verklaarde van den adelstand,
+en ons veroordeelde tot verbanning naar Siberië en levenslangen
+dwangarbeid in de mijnen. Mijn vriend was met mij in het gevecht,
+en deelde in mijn lot."
+
+"Moest gij de reis te voet afleggen?"
+
+"Neen, zeker niet. Keizer Nikolaas, hoewel onverbiddelijk streng van
+karakter, was geen man om de wet te schenden. Zelf een geboren vorst,
+koesterde hij een diepen eerbied voor de rechten der geboorte; en
+daar een edelman niet op gelijken voet kon behandeld worden als een
+landlooper of een lijfeigene, werd uitdrukkelijk bepaald dat onze
+privilegiën ongeschonden van kracht moesten blijven, tot wij Tomsk
+zouden hebben bereikt. Daar zat de permanente commissie voor Siberië,
+die aan ieder zijn bepaalden werkkring in de mijnen aanwees. Wij reden
+in een lichten wagen, die door drie sterke ponies getrokken werd; en
+wanneer de wegen hard waren, legden wij tweehonderd wersten per dag
+af. Onze voeten waren geboeid, zoodat wij dag noch nacht onze laarzen
+konden uittrekken; maar de bewoners der steppe, die wij dus in ijlende
+vaart doorvlogen, waren goed en vriendelijk jegens ons, als jegens alle
+ballingen; zij gaven ons, half in het geheim, brood, gedroogde visch
+en brandewijn. Zij wisten dat wij Polen waren; en hunne priesters zijn
+over het algemeen maar al te zeer gewend, de Polen als vijanden van
+God af te schilderen; maar de Russen, zelfs al zijn zij halve wilden,
+zijn zeer teergevoelig. Zij kennen wel het onderscheid tusschen den
+politieken balling en een dief; dit valt trouwens dadelijk in het oog:
+want een dief en moordenaar krijgt een brandmerk op het voorhoofd en
+op de beide wangen; een afschuwelijk zwart teeken, dat door niets kan
+worden weggewischt; en zoo de boeren een Pool voor zeer slecht houden
+omdat hij katholiek is, kunnen zij toch niet nalaten medelijden met
+hem te hebben, als met een medemensch. Twee malen poogde ik uit de
+mijnen te ontsnappen; en hoewel de poging beide keeren mislukte,
+werd ik toch getroffen door de vriendelijke goedhartigheid van het
+landvolk. Zij durfden mij niet openlijk in mijne vlucht behulpzaam
+zijn, maar zij hielden zich dikwijls blind en doof; en meermalen,
+wanneer ik, bezwijkende van honger en vertwijfeling, des nachts naar
+eene of andere hut sloop, vond ik, in het vensterkozijn, eene portie
+brood en visch en zelfs een glas brandewijn gereed staan."
+
+"Wie had dat daar gezet?"
+
+"Arme boeren hadden dat gedaan, voor wie brood en visch lang geen
+artikelen van weelde zijn; zij deden dat om het lijden te verzachten
+van een of anderen ongelukkige, zooals ik".
+
+"Dus hebt gij toen het volk liefgekregen?"
+
+"Dat niet; maar ik begon hen te begrijpen, en te erkennen dat zij
+mijne broeders waren. Echter bleef mijn hart nog jaren lang voor hen
+gesloten. Ik was een geleerde, zooals zij zeiden; en ik drong mijzelven
+op, dat zij, dus den hongerige spijzende, niets anders deden dan wat
+elke horde van wilden, door haar natuurlijk instinkt gedreven, eveneens
+zou doen. Eindelijk kwam een arme priester, op een boerenkar gezeten,
+de mijnen bezoeken. Reeds vóór zijne komst had ik van hem gehoord;
+ik kende zijn naam, zijne zending, en ook de gevaren, waaraan hij
+zich blootstelde; want Vader Paulus had geheel uit eigen beweging
+zich aan deze taak gewijd; hij had aan dezen zendingsarbeid in de
+sneeuwwoestijnen de voorkeur gegeven boven een koorstoel in eene of
+andere kathedraal, omdat hij meende dat arme katholieke ballingen
+meer behoefte hadden aan zijn hulp en troost, dan de vermogenden
+en welgestelden naar de wereld. Ik had van anderen vernomen dat hij
+geheel Siberië was doorgegaan, van de eene mijn naar de andere, om
+bij de katholieke ballingen het geloof hunner kinderjaren levendig
+te houden of weder op te wekken; om de mis te bedienen, de biecht af
+te nemen, huwelijken in te zegenen en te doopen, en ook om de nieuw
+gedolven graven te wijden. Toch had ik niet meer dan vluchtig aan hem
+gedacht. Wat kon hij voor mij doen: een arme priester, uit eigen keuze
+in de wildernis zich begravende, zonder invloedrijke betrekkingen,
+zonder hooggeplaatste vrienden? Het was niet waarschijnlijk dat hij
+een aanbidder van Napoleon zou wezen; en ongetwijfeld zou hij den naam
+van Mazzini niet dan met afschuw uitspreken. Wat zou ik met zulk een
+man kunnen spreken? De nacht toen hij aankwam, was het doordringend
+koud; zijne slede was onderweg beschadigd; de wolven hadden hem
+vervolgd. Door een zeker gevoel van medelijden en sympathie met
+zijne hooge jaren en den ongelukkigen toestand waarin hij verkeerde,
+gedreven, voegde ik mij bij hem in de houten schuur, waarin wij
+ons verblijf hielden; en nauwelijks was hij een weinig tot zichzelf
+gekomen, zelfs nog eer hij eenig voedsel genoten had, of hij begon,
+op den meest eenvoudigen toon, tot ons te spreken over de liefde Gods,
+waarin hij al zijne kracht en sterkte vond. Hij nam vervolgens deel
+aan ons sober avondmaal van erwtensoep en zwart brood; legde zich
+toen neder op een matras, en viel in slaap. Uren lang zat ik dien
+nacht bij zijne legerstede, en staarde in dat kalme ernstige gelaat,
+omlijst door die zilverwitte haren, die over het kussen vielen; op
+die vermagerde handen, kruiselings op de borst gevouwen. Indien ooit
+iemand in zijn slaap het aanschijn van een engel had, dan was het
+wel vader Paulus. Zie, zulke mannen kweekt alleen de kerk van Christus.
+
+Den volgenden dag bracht ik hem een bezoek, want onze opzichter had,
+ter gelegenheid van zijne komst, aan de katholieke gevangenen vrijaf
+gegeven; en toen sprak hij tot mij van mijn vaderland en van mijne
+moeder, tot mijn hart week werd en de tranen mij langs de wangen
+vloeiden. Toen een oogenblik ophoudende, zag hij mij aan, zooals mijn
+vader mij zou hebben aangezien, en met innige teederheid mijne hand
+drukkende, sprak hij op half fluisterenden toon: "Komt tot mij, gij
+allen die vermoeid en beladen zijt, en ik zal u ruste geven.--Zalig
+zijn die treuren, want zij zullen vertroost worden.--Zalig zijn de
+zachtmoedigen, want zij zullen het aardrijk beërven."--Ik had deze
+woorden wel honderdmaal gelezen, want ik hield van het Nieuwe-Testament
+omdat het, zoo als ik toen meende, een demokratischen geest ademde;
+maar nimmer had ik gevoeld, wat zij eigenlijk beteekenen, voordat ik
+ze dus van de lippen van vader Paulus vernam. Op eenmaal werd het mij
+duidelijk dat deze woorden ook persoonlijk tot mij gericht waren. Het
+was of mijne moeder mij omzweefde. Ik leerde afstand doen van mijne
+ijdele philosophie, en werd wederom den kinderen gelijk."
+
+Mijn reismakker spreekt zacht, met eene welluidende stem, maar daar
+is vastheid en diepe ernst in zijn toon; de klank zijner woorden
+treft mij als muziek. Na eenige oogenblikken van stilzwijgen vroeg ik
+hem, in hoever deze ommekeer in zijne denkwijze op zijne verhouding
+tegenover de Russen van invloed was geweest.
+
+"Een christen, antwoordde hij, is niet langer een dienstknecht des
+vleesches. Zijne eerste gedachte is aan God gewijd; zijne tweede
+aan de kinderen Gods, onverschillig of zij aan de boorden van den
+Weichsel, aan den voet der Alpen, aan de kusten der IJszee, of waar
+ook, wonen. Hij laat het zwaard over aan hen, die eenmaal door het
+zwaard zullen vergaan. Zijn wapen is dat des Geestes, en hij wil de
+wereld niet anders overwinnen dan door de liefde."
+
+"Dus wilt gij het zwaard overlaten aan ieder, die vermetel en behendig
+genoeg is om het te grijpen?
+
+"Neen; ik heb het zwaard niet over te laten; God beschikt daarover,
+en hij geeft het aan wien het hem behaagt, tot de volbrenging van zijn
+heiligen wil. Het is eene ontzettende gift; en hij, die ze ontvangt,
+kan nooit gelukkig zijn."
+
+"Toch zijn er velen, die er naar haken."
+
+"Dat is zoo. Hij die voor het eerst een vuur ziet, zal zich daaraan
+branden. Bedenk in welk een gansch ander licht zich de oorlog vertoont,
+als wij eens tot de overtuiging gekomen zijn dat alle menschen
+inderdaad kinderen Gods zijn. Geen oorlog is denkbaar zonder dat er
+iemand omkomt. Wie is die iemand? Zoudt gij u gaarne voorstellen dat
+in eene andere wereld een noodlottige samenloop van omstandigheden
+u in de noodzakelijkheid brengen kon, een engel te dooden?"
+
+"Neen, stellig niet."
+
+"Maar zijn menschen iets anders dan engelen, nu nog in lager sfeer
+geplaatst? Wij oordeelen over de dingen, naarmate van onze persoonlijke
+indrukken. De menschen zijn van nature blind, tot hunne oogen door
+de liefde Gods geopend worden; en God is nabij de gebrokenen en
+verslagenen van harte. Gansche scharen van Siberiërs zijn naar Polen
+teruggekeerd; maar onder die allen is er nauwelijks een, die bij zijn
+terugkeer dezelfde was als toen hij ging."
+
+"Zij zijn ouder geworden."
+
+"Zij zijn wijzer geworden. Vader Paulus, en priesters als Vader
+Paulus--want hij staat niet alleen in zijn heilig werk--hebben niet
+vergeefs gearbeid. Misschien moest ik zeggen, dat zij niet vergeefs
+geleefd hebben: want niet de woorden die zij spreken, maar de leer die
+zij door hunne daden verkondigen, is de goddelijke medicijn voor de
+trotsche en gewonde harten der ballingen. De dichters en schrijvers
+onder ons, die deze vuurproef hebben doorstaan, zijn kenbaar aan
+hun gelouterden, ernstigen stijl; zij hebben voorgoed met Frankrijk
+en de Franschen gebroken. Zij lezen ernstiger boeken, en spreken op
+eenvoudigen, waarachtigen toon. Gij zoudt kunnen meenen dat het vuur
+van hun geest gedoofd was, indien hunne liefde tot God en tot hun
+vaderland u niet van het tegendeel overtuigde. Zij preeken niet veel,
+maar zij doen des te meer; bovenal hebben zij het oog gevestigd op
+alles wat hoog en edel is, al ligt dat ook verre; en met alle kracht
+verzetten zij zich tegen nutteloos bloedvergieten. Zij kennen de
+Russen beter; en zij hadden de amnestie en wat daarop volgde niet
+noodig, om te gevoelen dat een zelfde broederband alle slavische
+stammen vereenigt."
+
+"Zijt gij een aanhanger van het Panslavisme?"
+
+"Neen! Wij hebben behoefte aan eene minder kleingeestige staatkunde,
+en vooral aan een hooger, edeler leuze. De panslavistische partij heeft
+een muur opgetrokken rondom Kiew, en zij zou, indien zij het kon,
+evenzoo een muur bouwen rondom Rusland. Zij heeft eene eigenaardige
+voorliefde voor afsluitingen, voor muren en omwallingen. Zie
+Moskou eens: een muur rondom het Kremlin; een tweede muur rondom de
+tartaarsche wijk; nog een muur eindelijk om de eigenlijke stad. Wat
+wij willen en wenschen, is de herleving der oude wapenkreet van
+Sint-George--den patroon onzer oude Grootvorsten, onzer vrije steden
+en onzer dierbare kerk!"
+
+Sint-George is de geliefde beschermheilige van alle takken van
+den slavischen volksstam, maar de Russen vooral wijden hem eene
+bijzondere vereering. De aan hem gewijde dagen behooren tot hunne
+voornaamste feestdagen: gelukkige dagen, waarop het goed is te koopen
+en te verkoopen, te huwen en verbintenissen aan te gaan, een huis te
+huren, een akker te pachten, een onderneming op touw te zetten. Twee
+dagen in het jaar zijn aan Sint-George geheiligd: de eerste dag der
+russische lente en de laatste dag van den herfst: dagen van vreugde
+en uitspanning voor allen, die van de opbrengst der kudden of van den
+akkerbouw leven. Op den eersten dezer beide dagen worden de stallen
+geopend: het vee gaat naar de weide; de herder neemt zijn staf ter
+hand; de boerenmeid maakt haar potten en pannen weder schoon. De
+tweede dag is een soort van oogstfeest: de arbeid van het jaar is
+geëindigd, de oogst is in de schuren geborgen, de kudden zijn weder
+in de stallen opgesloten. Maar Sint-George wordt door de stedelingen
+niet minder ijverig dan door het landvolk vereerd; zijn beeld prijkt
+op bet zegel der vrije steden en oude gemeentelijke republieken; en
+de figuur van den ridderlijken drakendooder was van ouds het symbool
+hunner grootvorsten en hunner tsaars. Dit beeld sierde de moscovische
+wapenschilden, eeuwen voor dat de dubbele arend in de russische banier
+eene plaats vond. Het was Iwan III--dezelfde, die een aanvang maakte
+met de vernietiging van de macht der bojaren en de onderwerping der
+vrije steden,--die den dubbelen arend tot het wapenteeken van Rusland
+maakte. Hij had dit zinnebeeld ontleend aan Byzantium; het werd een
+symbool van zijn autokratisch gezag, en voor velen van zijn volk
+een teeken dat de tsaar met zijn leger en zijne grooten zich aan den
+duivel had overgegeven. De donkere, roofzieke, verscheurende vogel was
+hun een zinnebeeld van den Booze, juist zooals de witte onschuldige
+duif voor het zinnebeeld des Heiligen-Geestes gold. Om aan de angstige
+bezorgdheid van zijn volk tegemoet te komen, werd Sint-George aan den
+arend toegevoegd: en sedert dien tijd prijkt de christelijke ridder
+op iedere russische banier en ieder russisch muntstuk.
+
+Sint-George was de patroon van een landbouwend, vreedzaam volk; de
+beschermheilige van een vroom, welvarend en vrij land; en wat hij
+in vroegere tijden was, dat is hij nog in de nationale herinnering
+gebleven. Als de beschermheilige der krijgslieden, staat hij bij
+de vorsten en grooten niet minder hoog aangeschreven dan bij de
+landlieden. Peter de Groote liet het beeld van Sint-George op zijn
+zwaard graveeren; keizerin Catharina stichtte eene ridderorde, die
+zijn naam voert; en keizer Nikolaas bouwde te zijner eer een prachtig
+marmeren paleis. Het voornaamste aan hem geweide heiligdom is het
+groote klooster te Nowgorod, dat jaarlijks door duizende pelgrims
+bezocht wordt.
+
+
+
+
+XVIII.
+
+DE LIJFEIGENSCHAP.--IWAN IV EN SINT-PHILIPPUS.
+
+
+De dusgenoemde lijfeigenschap in Rusland was geheel  iets anders dan
+het stelsel van eigenhoorigheid, dat eeuwen lang in de verschillende
+landen van het Westen heeft bestaan. De woorden hoorige, villain,
+aldion, colonus, fiscal, homme de pooste, beteekenden, in de
+verschillende talen van westelijk Europa, een man, die niet zijn eigen
+heer was, maar aan een meester behoorde, en volgens de wet verplicht
+was, dezen, op zeer verschillende wijze en in zeer verschillende mate,
+te dienen; waar tegenover de heer gehouden was, hem te beschermen en
+recht te doen. In hoofdtrekken was deze verhouding overal dezelfde. De
+hoorige was doorgaans graver of houthakker, landbouwer of herder: ruw
+en hard als de grond, dien hij ontginnen, onontwikkeld en dierlijk,
+als het vee, dat hij hoeden moest. Ook de lijfeigene mocht zijn
+heer niet verlaten, en evenmin de woning of den akker, die hem was
+aangewezen. Daar stond tegenover, dat ook zijn heer hem bescherming
+schuldig was, en hem niet van den akker verjagen mocht; hoewel hij
+het recht had, hem te slaan, in de gevangenis te werpen, somwijlen
+zelfs te dooden, en den man met den grond waarop hij behoorde mocht
+verkoopen.--Maar hier houdt de gelijkenis tusschen den hoorige en den
+lijfeigene op. Het kwam nimmer iemand in de gedachte, de hoorigen
+te beschouwen als de eigenlijke eigenaars van de akkers, die zij
+bebouwden; en in geen enkel land ging de vrijmaking dezer klasse
+gepaard met een afstand van grondbezit. De russische lijfeigenschap
+had een geheel anderen oorsprong en ontstond door geheel andere
+omstandigheden. De groote emancipatie, waardoor keizer Alexander zijne
+regeering onsterfelijk heeft gemaakt, kan alleen recht begrepen en
+gewaardeerd worden, als wij ons rekenschap hebben gegeven van den
+waren aard dezer lijfeigenschap; en van de oorzaken, die tot hare
+vestiging hebben geleid.
+
+In de bibliotheek van de Akademie van Wetenschappen te Petersburg toont
+men u een oud handschrift--het oudste, naar men zegt--van Nestors
+Kroniek, versierd met een aantal fraaie teekeningen en miniaturen,
+die tot opheldering van den tekst moeten dienen. Dit handschrift is
+bekend onder den naam van den codex van Radziwill. Nestor schreef
+hun boek te Kiew, ruim honderd jaren voor de inneming dier stad door
+Batoe-Khan; en de teekeningen in dezen codex geven u de oude Russen te
+aanschouwen in hunne kleeding, hunne wapenrusting, in hun huiselijk
+en openbaar leven. Waren zij nu, in dien ouden tijd Aziaten, met een
+mantel en een muts van schapenvacht? Volstrekt niet: de russische
+bojaar ging gekleed als een duitsch ridder; de russische moujik zag
+er niets anders uit dan een engelsche boer.
+
+Ten tijde van Nestor waren de Russen een vrij volk, geregeerd hetzij
+door erfelijke hoofden, hetzij door verkozen overheden. Zij leefden
+rustig en vreedzaam van landbouw en handel; in de westelijke provinciën
+waren zij meest in steden gevestigd; in de oostelijke en zuidelijke
+streken, leefden zij voornamelijk in hutten en tenten. Nowgorod,
+Pskow en Hlynow waren vrije steden, met zelfgekozen magistraten:
+kleine republieken, zooals Florence en Pisa, Hamburg en Lubeck. In
+die dagen bestonden er geen lijfeigenen en dacht ook niemand aan de
+invoering van zulk een stelsel. Maar dit oude Rusland viel onder de
+macht der Mongolen. In den grooten veldslag aan de Kalka werd de kracht
+der natie verbroken: en honderd-tachtig jaren lang worstelde zij, in
+wanhopigen kamp, met de verpletterende overmacht; in die doodelijke
+worsteling werden hare velden verwoest, hare steden geplunderd,
+hare landlieden uit huis en hof verjaagd en naar de wouden en de
+steppen verdreven. Nog had zij zich niet van dezen geweldigen slag
+hersteld, toen Timoer-Beg met zijne heerscharen het land overstroomde:
+wel een man van hooger ontwikkeling dan Batoe-Khan, een geleerde,
+een kunstenaar, een staatsman: maar toch, in zijn gansche wezen
+en aanleg, een Oosterling, een Aziaat. Timoer voerde in Rusland
+de wet van Mekka in, benevens de kunst van Samarkand en de poëzie
+van Ispahan. Zijne begs en mirzas waren beschaafde ridderlijke
+mannen. In de door hem gestichte khanaten langs de Wolga en in de
+Krim heerschte een pracht, een weelde, een fijne toon en beschaving,
+die ge te vergeefs zoudt hebben gezocht aan de hoven der nationale
+vorsten te Moskou, te Kazan, te Twer. De vorsten en bojaren werden
+de leenmannen van den Khan der Tartaren in de Krim, bekend onder den
+naam van den Grooten-Khan; zij zwoeren hem trouw, betaalden hem een
+jaarlijksche schatting, en trachtten zich bij hem aangenaam te maken
+door hem in kleeding en wapenrusting na te volgen. De nederigste
+vazallen van dien Grooten-Khan waren de grootvorsten van Moskovië,
+die zich zelf zijne slaven noemden, en dit ook inderdaad waren. Zij
+hielden den stijgbeugel als hij voor zijn paleis te paard steeg, en
+gaven zijn ros te eten uit hunne tartaarsche mutsen; zij bootsten hem
+na in manieren en levenswijze, en noemden zich naar zijn naam. Hunne
+soldaten, die zij met zijne vergunning in het veld brachten, waren op
+tartaarsche wijze uitgerust en gewapend. Zij vochten voor hem tegen
+hun eigen land, en brachten de vrije republieken in het noorden,
+die onbereikbaar waren voor zijne ruiterij, onder het juk.
+
+Deze slaafsche onderwerping van grootvorsten en bojaren aan den
+Grooten-Khan was een schrikkelijke ramp voor den armen landman,
+die voortdurend gevaar liep zijn akker te zien vernield, zijn huis
+in de asch gelegd, het kruis in zijn dorp ontwijd, door stroopende
+ruiterbenden. Want een tartaarsche Khan, ook al plantte hij zijn
+banier aan de oevers van een grooten stroom, als te Kazan, of in eene
+romantische vallei als de Baktshi-Seraï, bleef toch in zijn hart
+een nomade en een ruiter, wiens eigenlijke plaats de zadel, wiens
+geliefkoosde woning de tent was. De geringste aanleiding was voldoende
+om zijn bloed te doen koken; en wanneer hij eenmaal de voeten in de
+stijgbeugels had gezet, was het voor herders en dorpelingen een harde
+taak, om den stoot van zijne geweldige lans te keeren. Een wolk van
+vuur ging voor hem uit; rookende puinen en vertrapte akkers teekenden
+zijn bloedig spoor. Niemand kon met eenige zekerheid weten, dat hij
+oogsten zou wat zijne hand had gezaaid: was niet een oneerbiedig
+gebaar, een vrijmoedig woord van zijn vorst voldoende, om den
+vernielenden wervelwind der tartaarsche ruiterij over zijne akkers
+los te laten? Wat bleef hem dan anders over dan te vluchten? Kwam
+die plage nu jaar op jaar terug, dan verliet hij eindelijk zijne
+hut en zijn akker; nu eens werkende, dan weder bedelende, voorzag
+hij in zijn onderhoud; maar hij was en bleef een zwerver, aan geene
+vaste woonplaats gebonden. Soms werd hij een pelgrim, soms ook een
+herder, maar doorgaans niet anders dan een landlooper. Om zich met
+meer vrijheid en veiligheid te kunnen bewegen, nam hij de tartaarsche
+kleeding aan: hij wikkelde zich in een mantel van schapenvacht, met een
+gordel saamgebonden, en zette zich een muts van schapenvacht op het
+hoofd. Waarom zou hij zijn land beploegen, terwijl anderen de vracht
+zouden plukken of den rijpenden oogst vernielen? De russische boer
+werd een zwerver en vagebond om dezelfde redenen, waarom de fellah
+in Syrië een vagebond wordt, wanneer zijn oogst telken jare door de
+zwervende Bedouïnen wordt geroofd.
+
+Toen Iwan IV, na van de tartaarsche begs de kunst van vechten en
+regeering te hebben geleerd, de khanaten van Kazan en Astrakhan
+veroverde, en den Grooten-Khan van Baktshi-Seraï durfde tarten, zag
+hij zich als onafhankelijk vorst geplaatst aan het hoofd van een land,
+rijk aan natuurlijke hulpbronnen van allerlei aard, maar met verwoeste
+velden, vernielde dorpen, eene verstrooide bevolking en onveilige
+wegen. Het land was wel niet ontvolkt, maar de landlieden hadden den
+zin voor en de gehechtheid aan eigen huis en haard verloren, en de
+moujiks trokken om van stad tot stad. Hier waren de arbeidsloonen
+buitensporig hoog, elders waren er handen te veel. De helft van het
+land, zelfs in de welvarende provinciën, lag braak; en geen jaar ging
+voorbij, zonder dat eene of andere landstreek door hongersnood en
+door de daarop volgende epidemische ziekten geteisterd werd. Aan dien
+toestand was geen einde te maken, tenzij dan een middel gevonden werd
+om de nu zwervende bevolking weder aan vaste woonplaatsen te binden.
+
+De vraag, hoe dit geschieden kon, baarde, zeventig jaren lang, aan
+het hof in de Kremlin meer zorg en hoofdbreken dan de kerkelijke
+twisten, de tartaarsche invallen en de paleis-omwentelingen: hoewel
+in dat tijdvak van zeventig jaren, de Groote-Khan een gedeelte van
+Moskou in de asch legde, Dimitri, de wettige erfgenaam des troons,
+werd vermoord, en Boris Godounoff, de overweldiger, zich de kroon op
+het hoofd drukte. Iwan IV zelf deed wat hij kon om de boeren tot den
+terugkeer naar hunne verlaten hoeven en akkers te bewegen: hij schonk
+vele domeinen der kroon weg; hij liet voor zijn eigen rekening dorpen
+bouwen; bedreigingen, vleiereien, beloften, straffen, geweld--niets
+werd gespaard om zijne onderdanen tot orde en geregelden arbeid
+te dwingen. Ofschoon deze hervormer ook nooit het woord lijfeigene
+(krepostnoi, een gebondene) gebruikte, is hij niettemin de wezenlijke
+stichter van dat stelsel van russische lijfeigenschap, dat thans tot
+het verledene behoort.
+
+In de prachtige zaal van het Kremlin, de schatkamer van Moskou genoemd,
+ziet men een schitterend uitgedoste en geheel gewapente ruiterfiguur,
+een bojaar uit den tijd van Iwan IV voorstellende. Wapens, kleeding,
+sieraden, in één woord de geheele uitrusting is die van een mirza of
+tartaarschen edelman; de inscriptie op het uitgetogen damasceensche
+zwaard meldt den vromen rechtgeloovigen Rus, dat er maar één God,
+en dat Mohammed zijn profeet is! Toch is het beeld wel waarlijk dat
+van een bojaar uit de tijden van Iwan IV.
+
+Onder de lange reeks van russische souvereinen is er misschien geen,
+wiens leven en karakter zooveel raadselachtigs heeft als dat van dezen
+Iwan IV. Ondanks zijne vele wreedheden en gruweldaden, wordt hij door
+zeer vele geschiedschrijvers toch als een bekwaam hervormer en een
+vaderlandslievend vorst geroemd: en inderdaad moet de onpartijdige
+kritiek hem in menig opzicht prijzen. Hem danken de Moskovieten hunne
+verlossing van het tartaarsche juk; hij was het, die het koningrijk
+Kazan, Siberië en het khanaat van Astrakhan veroverde en bij zijn rijk
+voegde. Langs al zijne grenzen deed hij de Halve-Maan zwichten voor
+het Kruis. Met Zweden en Polen voerde hij een niet onvoordeeligen,
+dikwijls zelfs schitterenden oorlog. Hij stelde zijn land open
+voor den buitenlandschen handel; hij bouwde havens langs de kusten
+der Oostzee, der Kaspische- en der IJszee. Hij voerde in zijn rijk
+allerlei hervormingen en verbeteringen in. Hij liet drukkers komen
+van de boorden van den Rijn, en liet de Handelingen der Apostelen
+in de landtaal uitgeven. Hij ontbood bekwame geneesheeren uit
+Frankfort, ervaren werklieden in hout en metaal uit Londen. In de
+stad Wologda liet hij door scheepstimmerlieden schuiten en vlotten
+vervaardigen, waardoor hij eene gemakkelijke gemeenschap met de zee
+kon onderhouden. Hij riep de voornaamste edelen en aanzienlijkste
+burgers tot een soort van parlement te zamen, om met hen maatregelen
+te beramen tot bevordering van het algemeen belang. De overleveringen
+en overgeërfde gebruiken, die tot dusverre bij de rechtspleging
+als richtsnoer hadden gediend, werden op zijn bevel in een wetboek
+bijeengebracht en geordend. Hij verbood de bedelarij in zijn rijk,
+hervormde de geestelijkheid, en liet eene voor allen geldende
+belijdenis des geloofs vaststellen.
+
+Iwan was een woestaard, maar hij was ontegenzeggelijk populair; hij
+was vreeselijk en geducht, maar voornamelijk voor de aanzienlijken
+en de rijken. Als een echte tartaarsche Khan, aarzelde hij nooit,
+ten behoeve zijner hervormingen, geweld en onrecht te plegen;
+hij leide den bojaren en kooplieden willekeurige schattingen op,
+maar liet op zijne kosten dorpen en woningen voor de boeren bouwen;
+hij vernietigde de onafhankelijkheid der vrije steden, maar schonk
+aan duizenden armen woning op de gronden van den staat. Hij brak de
+macht van den adel als heerschenden stand, en stelde, in de plaats
+der vorsten en bojaren, regeeringsbeambten aan; hij regeerde door
+middel van den knoet, maar trachtte ook te regeeren door middel van
+de drukpers; hij verwoestte Nowgorod en Pskow, maar bouwde ook eene
+menigte kerken, dorpen en heiligdommen. Zoowel door natuurlijken
+aanleg als uit staatkundige berekening, was hij een groot bouwer:
+hij vond een rijk van hout en boomstammen, en wilde aan zijn zoon
+een rijk van steenen huizen nalaten. Niet minder dan veertig steenen
+kerken en zestig steenen kloosters verrezen op zijn bevel. Hij bouwde
+de merkwaardige kerk van Sint-Wassili, nabij den muur van het Kremlin,
+en wijdde die aan den heiligen patroon zijns vaders. Naar men zegt,
+stichtte hij honderdvijftig sterke kasteelen, en meer dan driehonderd
+gemeenten.
+
+Wenschende zijn volk te beschaven en aan vaste woonplaatsen te
+gewennen, bootste de hervormer zooveel mogelijk de instellingen
+en gebruiken na der tartaarsche landen, die hij aan zijn schepter
+onderworpen had. Kazan en Baktshi-Seraï waren vrij wat prachtiger en
+rijker steden dan Wladimir en Moskou; en de armste mirza aan het hof
+van den Grooten-Khan was veel schitterender uitgedost en veel beter
+gewapend dan de aanzienlijkste bojaar aan Iwans hof.
+
+Iwan begon zijn hervormingswerk door zijn rijk in twee deelen te
+verdeelen: een daarvan bleef onderworpen aan zijn persoonlijk bestuur;
+het andere werd in zijn naam geregeerd door stadhouders, met dezelfde
+macht bekleed als de tartaarsche begs. Hij richtte een staand leger op,
+destijds bijna het eenige in Europa, dat hij wapende en uitrustte naar
+tartaarsche wijze. Hij vormde zich een bijzondere lijfwacht, die de
+tartaarsche tafia droeg, een hoofddeksel dat geen Christenmensch in
+zijne staten zich veroorlooven mocht te dragen. Evenals de Groote-Khan
+richtte hij een gedeelte van zijn paleis tot harem in, en sloot daar
+zijne vrouwen en dochters op, die zich niet in het openbaar mochten
+vertoonen; tevens werd de toegang tot zijn hof ten strengste aan alle
+vrouwen verboden. Zijne vorsten en bojaren volgden zijn voorbeeld;
+en het duurde niet lang, of iedere eenigszins aanzienlijke woning had
+een harem, en de afzondering der vrouwen was te Moskou niet minder
+streng dan te Bokhara of te Bagdad.
+
+Deze gewoonten bleven in stand tot op den tijd van Peter den
+Groote. Het rijk werd geregeerd door provinciale begs of stadhouders,
+onder den naam van bojaren en woywoden; het leger was gekleed en
+gewapend als de turksche troepen; en de vrouwen waren in de harems
+opgesloten, evenals de odalisken van den sultan. Peter schafte deze
+tartaarsche zeden en gebruiken af; hij opende den keizerlijken harem,
+vertoonde zich met de Tsarin in het openbaar, en noodigde de dames uit,
+weder aan het hof te verschijnen. Toch is er in het russische leven,
+bijzonder ten platten lande en in de kleine steden, nog iets van die
+muzelmansche gewoonten overgebleven. Evenals iedere aanzienlijke woning
+haar eigen harem had--het vrouwenverblijf, dat door geen vreemdeling
+mocht betreden worden; zoo had elke aanzienlijke familie ook eene
+afzonderlijke begraafplaats voor hare vrouwelijke leden. Sommige
+van deze oude begraafplaatsen, zijn in kloosters herschapen,
+nog tot heden in stand gebleven; bijvoorbeeld Novo-Devictchie, het
+jonkvrouwenklooster, in eene der voorsteden van Moskou, en het klooster
+der Hemelvaart in het Kremlin, nabij de Heilige-poort: dit laatste was
+bijkans twee eeuwen lang, van den tijd van Iwan den Verschrikkelijke
+tot op Peter den Groote, de begraafplaats der Tsarinnen.
+
+Iwan verstond uitnemend de kunst om, door allerlei listen en intriges,
+verdeeldheid te zaaien tusschen zijne hertogen en bojaren; en wanneer
+de twist dan eindelijk zoo hoog geloopen was, dat de beide partijen
+elkander beschuldigden, maakte hij behendiglijk daarvan gebruik om
+beiden ten verderve te brengen. Langzamerhand wist hij de adellijke
+geslachten van al hunne historische rechten en privilegiën te berooven;
+hij dwong zijne grooten, gunsten en voorrechten van hem, als zijne
+slaven, te ontvangen. De mannen, die hij om hun rang en invloed
+in het openbaar moest ontzien, zond hij, schijnbaar met gewichtige
+zendingen, naar verwijderde landstreken; op die wijze de personen, die
+hij gevaarlijk achtte, door een soort van ballingschap onschadelijk
+makende. De macht zijner hertogen werd geknot; de schatten zijner
+bojaren werden verbeurd verklaard. Het getal der vorsten was te groot,
+om ook hen onder het juk te brengen: want ten tijde van Iwan was er
+onder de drie ingezetenen van Moskou althans één, die den titel van
+vorst droeg; en het was niets zeldzaam, deze vorsten de nederigste
+diensten te zien verrichten. Van de aloude hertogelijke dynastiën
+waren er maar enkelen, die zijne regeering overleefden: slechts de
+Narishkins, de Dolgourouckis, de Galitzins en nog ettelijke anderen
+ontkwamen aan den ondergang; en deze doorluchtige, historische
+familiën zien nog heden met zekere voornaamheid op de regeerende
+keizerlijke dynastie neder. De Narishkins zijn door huwelijken aan
+het huis van Romanoff verwant. Een lid dezer familie, wien de titel
+van keizerlijke hoogheid werd aangeboden, sloeg dit aanbod af, en
+sprak op trotschen toon tot zijn souverein: "Neen, sire: ik ben een
+Narishkin."--Toen Peter Dolgouroucki vernam, dat de keizer hem van
+den vorstelijken rang vervallen had verklaard, ontzag hij zich niet
+aan zijne, majesteit te schrijven: "Hoe kunt gij mij vernederen? Kunt
+gij mij mijne voorouders ontnemen, die grootvorsten van Rusland waren,
+toen de uwe nog niet eenmaal graven waren van Holstein-Gottorp?"
+
+Moskou werd geregeerd als een tartaarsch kamp. De soldaten van Iwans
+lijfwacht zwierven door de straten, met hunne tartaarsche mutsen op
+het hoofd, en mishandelden de ingezetenen, zonder onderscheid van rang
+of stand, bojaren zoo goed als burgers, moujiks en boeren, als hadden
+zij te doen met lieden van een anderen stam en een ander geloof. Zij
+plunderden de huizen, zij voerden de vrouwen weg, zij vermoordden de
+mannen: in één woord, zij bedreven zoo groote buitensporigheden, dat
+een vreemdeling, die een troep dezer soldaten in de tartaarsche wijk
+of onder de muren van het Kremlin ontmoette, niet anders denken kon,
+dan dat de stad ter plundering aan de soldaten was prijs gegeven.
+
+Dit streven om het rijk, naar tartaarsche beginselen en op tartaarsche
+wijze, te hervormen, lokte een hevigen tegenstand van de zijde der
+kerk uit; de patriarch Athanasius trok zich terug; Germanus werd
+afgezet en Sint Philippus vermoord, ter zake van hun verzet tegen
+den tsaar. Sint-Philippus was de martelaar van Rusland; hij viel
+als het slachtoffer van den onverschrokken moed, waarmede hij de
+traditiën van zijn land en zijne kerk verdedigde tegen den tsaar,
+die alles naar zijne tartaarsche denkbeelden wilde dwingen. Wanneer
+ge ook de groote kathedraal der Hemelvaart te Moskou bezoekt, steeds
+zult ge eene menigte mannen en vrouwen, in eerbiedige aandacht,
+geknield vinden voor een prachtig zilveren monument. Het is het graf
+van Sint-Philippus, martelaar en heilige; en steeds verdringt zich
+de schare om de relikwiën van den heilige te kussen. De moord van
+dezen man is een dier nationale misdaden, die door eene eeuwenlange
+boete niet worden verzoend en uitgewischt. De boeteling bidt en vast
+in zijn naam; ontsteekt te zijner eere zijne kaarsen; en zucht en
+smeekt, neergebogen voor zijn graf, als zocht hij vergeving voor een
+persoonlijk vergrijp.
+
+De strijd tusschen Philippus en Iwan, tusschen de christelijke kerk
+en den tartaarschen despoot, beslaat zeker een van de roemrijkste
+bladzijden in de geschiedenis der kerk van Rusland. Slaan wij die
+bladzijde even op.
+
+In den eersten tijd der regeering van Iwan IV (1539) landde een
+pelgrim, armoedig gekleed en zonder geld, maar van een innemend
+voorkomen, aan het klooster te Solowetsk. Hij kwam daar om te bidden:
+maar na eene korte pooze op het eiland vertoefd te hebben, legde hij
+de gelofte af en werd monnik. Onder den naam van Philippus leefde
+hij negen of tien jaren lang in zijne eenvoudige cel. De monniken,
+zijne broederen, bespeurden echter wel, dat er achter dat armelijke
+voorkomen een of ander geheim school: zijne geleerdheid, zijne
+manieren: alles deed in hem den man vermoeden, die tot de hoogste
+rangen der maatschappij behoorde. Maar de nederige broeder bewaarde
+over zijn vroeger leven een diep stilzwijgen. Negen jaren na zijne
+intrede in het klooster kwam de prior te sterven, en hij werd met
+algemeene stemmen tot die waardigheid verheven.
+
+Toch hadden de broederen gelijk: deze man was geen gewone monnik. Tot
+de aanzienlijkste geslachten in Moskou behoorde destijds ook de familie
+Kolitcheff; aan het hoofd van dat geslacht werd een zoon geboren,
+die den naam van Feodor ontving, en erfgenaam was, niet alleen van
+uitgestrekte bezittingen, maar ook van een beroemden naam. Van zijne
+vrome moeder ontving het kind eene godvruchtige opvoeding: zij leerde
+hem in de levens der heiligen lezen, zij leerde hem bidden en nam
+den knaap trouw met zich naar de mis, waar zij hem het voorbeeld gaf
+van heilige aandacht. Maar uit edel bloed gesproten en geroepen om
+zijn vorst te dienen, leerde Feodor ook rijden en schermen, jagen
+en schieten, en onderwees men hem tevens in de kunst om de goederen
+zijner familie, bosschen en pachthoeven en landerijen, met al wat
+daartoe behoorde, naar den eisch te besturen. Op zes-en-twintigjarigen
+ouderdom werd hij aan den toen vierjarigen Iwan voorgesteld; en daar
+de jonge prins bijzondere genegenheid voor hem opvatte, was hij zeer
+dikwijls ten hove, bewonderd door alle vrouwen, benijd door zeer
+vele mannen. Feodor Kolitcheff had, zoo scheen het, eenvoudig aan
+het hof te blijven, om eenmaal tot de hoogste betrekkingen geroepen
+te worden. Maar zijn hart was altijd vreemd aan het leven, dat hij
+dus leidde; het Kremlin was een brandpunt van allerlei intriges en
+kuiperijen; de streek rondom de stad werd, door de snoodste misdaden,
+in voortdurende spanning en onrust gehouden. Smartelijk getroffen door
+wat hij hoorde en zag, wenschte de benijde gunsteling naar de rust
+van een heilig, godgewijd leven; eindelijk vertrok hij in stilte,
+al zijne bezittingen achterlatende, en wandelde, in het eenvoudige
+pelgrimskleed gehuld, de poorten van Moskou uit. Met zijn staf
+in de hand, baande hij zich een weg door de onbezochte wouden van
+het noorden; nu eens vertoevende in eene boerenhut, waar hij, voor
+eene bete broods, op het land ging werken; dan op een vlot de Dwina
+afzakkende, en zijn overtocht betalende door zelf mede te roeien. Zoo
+kwam hij te Solowetsk, waar hij achtervolgens monnik, priester, prior
+werd, zonder het geheim zijner edele geboorte en zijner betrekking
+aan het hof te verraden.
+
+Aan het hoofd der broederen geplaatst, werd het zijn ernstig streven om
+het klooster in zijn ouden luister en glans te herstellen. Hij kleedde
+zich in de pij van Zosimus, en richtte een gedenkteeken op boven het
+graf van Savatius. Deze mannen Gods ten voorbeeld nemende, voerde
+hij den regel van ijverigen en voortdurenden arbeid in; hij stichtte
+nieuwe werkplaatsen; hij verbeterde de visscherijen en pachthoeven;
+hij liet steenen kapellen bouwen, en leerde aan sommige vaders de
+kunst van schrijven en teekenen. Nog getuigt menig monument en menig
+kunststuk in het klooster van zijn ijver en zijne werkzaamheid. Maar
+te midden van dezen arbeid werd Philippus uit zijn stille cel in de
+Witte-zee geroepen, om een hooger en gevaarlijker zetel te bestijgen.
+
+Iwan, die den ouden vriend zijner jeugd nog niet vergeten had,
+raadpleegde hem dikwijls over staatszaken, en ontbood hem nu en
+dan naar het Kremlin om zijne voorlichting in te winnen. Bij die
+gelegenheden werd Philippus meermalen getroffen door de groote
+verandering, die met den tsaar had plaats gegrepen. Iwan was niet
+langer de vrome kruisridder van vroeger: hij was nu, op middelbaren
+leeftijd, eene zonderlinge mengeling van een somberen dweepzieken
+monnik en een woesten khan. Deze omkeer dagteekende van den dood
+zijner gemalin en de verovering van Kazan; hij nam nu twee vrouwen
+tegelijk ten huwelijk, kleedde zich als een Tartaar, en volgde in
+alles het voorbeeld van een aziatisch despoot. Als ware hij het
+opperhoofd der Gouden-Horde, trok hij door de straten van Moskou,
+omringd van zijne trawanten, en last gevende, dien man te geeselen,
+dezen te dooden. Het plein voor de Heilige-poort was rood van bloed;
+en de gansche stad werd vervuld van schrik en ontzetting, van jammer
+en rouw.
+
+Twee grijze prelaten, die den tsaar zijn schandelijk gedrag hadden
+durven verwijten, werden uit hun ambt verdreven; en in 1566 vestigde
+Iwan zijne keus op den prior van Solowetsk, als op een man, die door
+zijne uitnemende deugden zijne regeering nieuwen glans zou bijzetten,
+zonder dat hij van hem strenge vermaningen of persoonlijke verwijten
+had te duchten. Philippus trachtte die gevaarlijke eer van de hand
+te wijzen: maar de tsaar eischte gehoorzaamheid, en met een bezwaard
+gemoed verliet de prior zijn stil verblijf op het eiland, overtuigd
+dat hij den marteldood tegemoet ging.
+
+Iwan had zich in den monnik schromelijk vergist. Philippus was geen
+hoveling, geen man om naar den mond der vorsten te spreken: want
+onder zijne eenvoudige pij klopte een hart vol warm en edel gevoel;
+zijn oog was niet blind voor hetgeen om hem voorviel, en het ontbrak
+hem niet aan moed, om zijne overtuiging uit te spreken. Op zijne reis
+naar Solowetsk naar Moskou kwam hij te Nowgorod, eene stad, die door
+haar rijkdom, haar onafhankelijken zin en hare vrije instellingen,
+in hooge mate den toorn van Iwan had opgewekt. Eene schaar van
+burgers trok den prior tegemoet, en viel voor hem op de knieën, zijne
+bescherming en voorspraak inroepende bij den tsaar, die openlijk
+gedreigd had dat hij de stad zou verwoesten en met den grond gelijk
+maken. Te Moskou gekomen, sprak hij tot Iwan als tot een zoon; hem
+biddende en vermanende, zijne lijfwacht weg te zenden, zijne vreemde
+gewoonten vaarwel te zeggen, een heilig leven te leiden, en zijn volk
+in gerechtigheid te regeeren, naar het voorbeeld zijner voorgangers.
+
+Iwan was teleurgesteld en verbitterd; hij verlangde een priester die
+hem zegenen en ter wille zou zijn, niet een, die hem zijn plichten
+voorhield. De dwingeland werd al heftiger en gewelddadiger; maar de
+nieuwe metropolitaan hield niet af, hem met onuitputtelijk geduld en
+zachten ernst te vermanen en tot den goeden weg, dien hij verlaten
+had, terug te roepen. Eens, terwijl Philippus de mis bediende,
+trad de tsaar met zijne lijfwacht, allen in tartaarsche kleeding,
+de kerk binnen; de soldaten schaarden zich in het gelid, terwijl Iwan
+zelf het heilige der heiligen naderde. Philippus ging met de dienst
+voort, zonder op den tsaar acht te geven: een bojaar riep hem toe:
+"Het is de tsaar!"--"Ik ken den tsaar niet," antwoordde Philippus,
+"in zulk eene kleeding."--De tartaarsche muts, de tartaarsche zweep
+vertoonden zich overal in het openbaar; de tartaarsche soldaten
+der lijfwacht waren meester in de stad, waar zij zonder schroom de
+grofste buitensporigheden bedreven. Zij kenden geen eerbied voor het
+heilige, en gaven voortdurende ergernis door de minachting, waarmede
+zij de heilige beelden en relikwieën behandelden. Bij gelegenheid
+eener processie, merkte de metropolitaan een der hovelingen op, die
+onbeschaamd zijne tartaarsche muts op het hoofd hield. "Wie is die
+man," vroeg Philippus aan den tsaar, "dat hij met zijn tartaarsch
+gewaad dezen heiligen dag ontwijdt?" De hoveling nam haastig zijne
+muts af, en beweerde nu dat de metropolitaan hem valschelijk van
+oneerbiedigheid beschuldigd had.--Daar allen, die in verdrukking of
+zorgen verkeerden, tot den metropolitaan gingen om zijn raad en hulp
+te vragen, betichtten de bojaren hem dat hij het volk tegen den vorst
+opzette. Toen Iwan, in strijd met alle kerkelijke wetten, eene vierde
+vrouw genomen had, weigerde de metropolitaan dit huwelijk te erkennen,
+en vermaande hij den tsaar ernstiglijk zich van het heilig sakrament
+te onthouden. Iwan ging des ondanks naar de kathedraal, nam daar zijn
+zetel in, en zag somber voor zich heen. In plaats van op te houden,
+om hem te zegenen, zooals de gewoonte medebrengt, ging Philippus met
+de heilige dienst voort, tot een der hovelingen voor het altaar trad,
+hem onbeschaamd in het gelaat zag, en op spottenden toon toevoegde:
+"De tsaar vraagt uw zegen, priester!" Zonder op dien man te letten,
+wendde Philippus zich nu tot Iwan, op zijn troon gezeten: "Vrome
+tsaar," sprak hij zuchtend, "waarom zijt gij hier? In deze plaats
+brengen wij Gode een heilig en onbloedig offer." Iwan dreigde met
+woorden en gebaren. "Ik ben een vreemdeling en bijwoner op aarde,
+zeide Philippus; ik ben bereid voor de waarheid te lijden."
+
+Dat lijden bleef niet uit. Van het altaar weggesleept, van zijne
+priesterlijke kleeding beroofd en in lompen gehuld, werd hij
+met roeden gegeeseld, op een slede geworpen, en door de straten
+rondgevoerd, beschimpt en gehoond door woeste soldaten, en straks
+in een der geringste kloosters van de stad, in een duisteren kerker
+opgesloten. De armen knielden in de straat als de slede voorbijging;
+aller oogen waren nat van tranen, en aller stem werd door snikken
+gesmoord. Philippus zegende hen, en sprak: "Treurt niet; het is Gods
+wil; bidt! bidt!" In den kerker geworpen en met ketenen beladen, niet
+enkel aan zijne enkels maar ook aan zijn hals, liet men hem zeven
+dagen en nachten zonder eten of drinken, in de hoop dat hij sterven
+zou. Een hoveling, die hem kwam bezoeken, zag, tot zijne verbazing,
+dat hij nog leefde en in het gebed verzonken was. Zijne vrienden
+en bloedverwanten werden gevangen en ter dood veroordeeld, om geen
+andere reden, dan omdat zij tot zijn geslacht behoorden en zijn naam
+droegen. Een bode van den tsaar trad Philippus' kerker binnen met
+deze boodschap: "Toovenaar, kent gij dit hoofd?"--"Ja, antwoordde
+de gevangene met van aandoening trillende stem, het is dat van mijn
+neef Iwan."--Dag en nacht schoolde de menigte samen voor de deur van
+het klooster, waar de eerwaardige bisschop gevangen werd gehouden,
+tot de tsaar, vreezende dat er een oproer zou uitbarsten, hem in het
+geheim naar een veiliger kerker in de stad Twer liet vervoeren.
+
+Een jaar later, in 1569, trok Iwan met zijn leger naar Nowgorod om
+aan die stad zijn wraak te koelen. Daar herinnerde hij zich, hoe
+Philippus eenmaal bij hem ten voordeele van die stad had gesproken:
+en de tiran zond een zijner handlangers naar Twer om den bisschop
+te vermoorden. "Geef mij uw zegen," zeide de moordenaar, de cel
+binnentredende. "Doe het werk, waarvoor uw meester u gezonden heeft,"
+antwoordde de heilige man: en de snoode daad was spoedig volbracht.
+
+Het lijk van den martelaar bleef eenige jaren te Twer, en werd
+toen naar Solowetsk vervoerd. Daar rustte hij in het klooster tot
+het jaar 1660, toen, onder de regeering van Alexis, den vader van
+Peter den Groote, het fel geteisterde rijk door pest, hongersnood en
+buitenlandsche oorlogen werd bezocht. In die dagen van benauwdheid
+werd het lichaam van den heilige, met groote staatsie, naar Moskou
+gebracht, om door deze plechtige daad van openbare boete den toorn
+des hemels, wegens den gruwelijken moord, te verzoenen. De brief
+van den tsaar, waarbij de overbrenging werd gelast, werd in de kerk
+te Solowetsk overluid voor het graf van den martelaar gelezen; zijn
+lichaam werd nog ongeschonden gevonden, als op den dag der begrafenis;
+bij het openen der lijkkist, steeg daaruit, naar men zeide, een geur
+van bloemen op. Een groote processie van monniken en pelgrims trok
+met de kostbare relikwie van Archangel naar Moskou, waar Alexis den
+stoet aan de poort van het Kremlin opwachtte en naar de kathedraal
+geleidde. Daar werd het gewijde lichaam, op de plaats der eere, in
+een prachtige zilveren tombe ter ruste gelegd; en nog heden ton dage
+moet iedere keizer van Rusland, op den dag zijner kroning, voor deze
+tombe de knieën buigen en de heilige overblijfselen kussen.
+
+
+
+
+XIX.
+
+DE EMANCIPATIE.
+
+
+Boris Godounoff, bloedverwant en opvolger van Iwan IV, gaf aan het
+beginsel der lijfeigenschap een wettigen vorm (1601). Een bekwaam en
+energiek man, oprechtelijk het welzijn van zijn land betrachtende,
+wilde Godounoff de verlaten steppen en de eenzame rivieroevers van
+zijn rijk zooveel mogelijk bevolken en ontginnen. Het lag in het minst
+niet in zijne bedoeling, den landman te benadeelen;--integendeel,
+hij wilde hem eene weldaad bewijzen en nuttig zijn. Het denkbeeld
+om den boer aan zijn grond te verbinden, kon toen inderdaad als eene
+groote en heilzame hervorming beschouwd worden; en na den raad zijner
+bojaren te hebben ingewonnen, koos de tsaar dan ook den feestdag
+van Sint-George, den patroon der vrije steden en van de oude Russen,
+voor de afkondiging van het edict, waarbij bepaald werd, dat voortaan
+ieder boer in het rijk den grond zou bezitten en bebouwen, dien hij
+op dat oogenblik bezat en bebouwde.
+
+Tot op dien tijd koesterde men in Rusland, ten aanzien van
+grondeigendom, ongeveer dezelfde denkbeelden, die bijna overal in
+het Oosten worden aangetroffen. Van de golf van Venetië tot de kusten
+van Bengalen, gold ten aanzien van het grondbezit, ondanks velerlei
+wijzigingen, in verband met klimaat en nationaliteit en plaatselijke
+traditie, toch in het wezen der zaak overal hetzelfde beginsel. De
+wezenlijke eigenaar van den grond was overal, onder God, de vorst,
+hetzij dan de sultan, de shah, de mogol of de khan. De Russen, hunne
+vroegere nationale traditiën en gebruiken vergetende, droegen nu
+de rechten en aanspraken, die zij van de tartaarsche begs en khans
+ontvangen hadden, op hun overwinnenden vorst over. Iwan IV verdeelde
+toen den grond naar zijn welbehagen: hier stichtte hij dorpen voor
+landbouwers; daar schonk hij landen weg aan een woywode, wiens diensten
+hij beloonen wilde; elders kocht hij den vrede met een vijand, door
+eene schenking van wouden, akkers en vischwateren: in één woord,
+hij handelde ook in dit opzicht naar het voorbeeld van Batoe-Khan
+en Timoer. Iwan ging daarbij zoo onbesuisd en ondoordacht te werk,
+dat toen Godounoff den troon besteeg (1598), in alle provinciën eene
+overgroote menigte landgoederen geheel verlaten lagen, zonder bebouwd
+te worden; terwijl daarentegen gansche scharen van landbouwers geen
+duim gronds bezaten. De gezeten landbevolking had zich in zwervende
+horden opgelost; Godounoff wilde nu deze rustelooze zwervende
+bevolking aan vaste woonplaatsen verbinden, door aan iedere familie
+een persoonlijk en erfelijk aandeel aan den grond te geven. Het kwaad
+dat hij genezen wilde, was echt oostersch;  hij paste ook een oostersch
+geneesmiddel toe. De Khans hadden juist hetzelfde gedaan; Godounoff gaf
+slechts aan hun stelsel meer uitbreiding en een nauwkeurig omschreven
+vorm, ten einde op die wijze eene grootere uitgestrektheid gronds in
+bebouwing te kunnen brengen.
+
+Zeer waarschijnlijk werd, in dit jaar 1601, de feestdag van
+Sint-George, door bojaren en boeren met dubbele vreugde gevierd;
+zeer waarschijnlijk werd het edict, dat de lijfeigenschap in Rusland
+invoerde, als een heilzame en populaire maatregel, met algemeenen
+bijval begroet. Om dit goed te begrijpen, moeten wij steeds in het oog
+houden dat deze dusgenoemde lijfeigenschap in Moskovië, in beginsel
+en aanvankelijk, geen lijfeigenschap was;--dit woord, dat wij,
+bij gebrek van beter, gebruiken, geeft van de zaak een zeer onjuist
+denkbeeld. Het was hier geheel iets anders dan de eigenhoorigheid
+in Frankrijk of Engeland. Het gold hier eene kolonisatie op groote
+schaal. Niet enkel wijze staatkunde, maar ook vrijgevige edelmoedigheid
+was een der voornaamste drijfveeren van Godounoff's daden: millioenen
+bunders land, die tot het kroondomein behoorden, gaf hij aan zijn
+volk weg. De grond werd op zeer billijke voorwaarden aan den boer
+afgestaan. Hij moest echter op het hem aangewezen land blijven wonen,
+zijn akker bebouwen, zijne woning onderhouden, zijn hoofdgeld betalen,
+en in tijd van oorlog zijn land dienen. Het voornaamste offer, dat
+de boer bracht, in ruil voor zijn stuk grond was zijn zwervend leven.
+
+Ten einde zich te vergewissen dat de lijfeigene--de krepostnoï, de
+aan den grond gebondene--trouw zijne verplichtingen nakwam, stelde de
+tsaar in iedere provincie eenige bojaren of woywoden tot opzichters
+of inspecteurs aan: een noodzakelijke, en toch een zeer noodlottige
+maatregel. Deze opzichter, een man van aanzien en gewicht, aldus
+tegenover den zwakke en weerlooze geplaatst, was in den regel geheel
+doordrongen van de tartaarsche denkbeelden en beginselen, waarin
+hij was opgevoed; en evenals de tsaar de plaats innam van den khan,
+zoo beschouwde de bojaar zich als den opvolger van den beg. Weldra
+slopen er allerlei misbruiken in; bovenal het gebruik van den knoet,
+dat de bojaar van den beg overnam; echter trof dit den lijfeigene niet
+in het bijzonder en als zoodanig, daar hij op dit punt met alle andere
+Russen gelijk stond. Ieder had, tot zeer onlangs, het recht dengene,
+die onder hem geplaatst was, te slaan. De tsaar sloeg den bojaar; de
+bojaar sloeg op zijn beurt den edelman van lageren rang; een kolonel
+schopte zijn kapitein, en de kapitein ranselde zijn manschappen. Dat
+gebruik van den stok geldt, door geheel het Oosten, voor een teeken van
+gezag; en een bojaar, die een boer met den knoet kon doen tuchtigen,
+omdat hij verzuimde zijn akker te bebouwen, zijn huis behoorlijk te
+onderhouden, of zijne belasting te betalen, zou welhaast meer dan een
+mensch moeten geweest zijn, indien hij zich niet in het eind als den
+wettigen heer van dien boer had beschouwd.
+
+Dit lag echter volstrekt niet in de bedoeling der wet. Volgens
+de theorie, hield de boer zijn land in erfelijk leen van de kroon,
+evenals de bojaar zijn land van de kroon hield. Voorts werd tusschen de
+beide partijen, den edelman en den boer, onder den waarborg der wet,
+een contract gesloten betreffende het beheer en de exploitatie van
+een zeker landgoed, bestaande uit landerijen, wateren en bosschen,
+met de verschillende rechten, aan den eigendom verbonden--zooals het
+recht van visscherij, van de jacht, van vogelvangst, van tolheffing
+en dergelijke. Dit contract was voor beide partijen gelijkelijk
+verbindend, voor den edelman zoogoed als voor den boer. Mocht de
+lijfeigene zijn huis en hof niet eigenwillig verlaten, de heer
+mocht hem daar ook niet uitzetten; hij was verplicht zijn meester
+te dienen, maar hij mocht eigendom bezitten, dat hij door eigen
+vlijt en spaarzaamheid verworven had. Plaatselijk gebruik en de
+aangeboren ruwheid van zeden kenden den heer wel de bevoegdheid toe,
+den lijfeigene met boete en den knoet te straffen; maar de lijfeigene
+kon, tegenover dit geweld, troost putten uit de gedachte dat de akker,
+dien hij bebouwde, aan hem en aan zijne gemeente behoorde, krachtens
+een titel, die voor geen herroeping vatbaar was. Er is een versje,
+waarin de plichten en rechten van den boer tegenover zijn heer vrij
+nauwkeurig omschreven worden:
+
+
+               "Mijn ziel aan God,
+                Mijn land is mijn;
+                Mijn hoofd den Tsaar,
+                Mijn rug is dijn."
+
+
+Tot op de regeering van Peter den Groote werden de misbruiken steeds
+grooter en verderfelijker. De opzichter over de lijfeigenen werd
+gaandeweg hun heer en eigenaar. Wie zou ook, vooral in afgelegen
+gewesten, den lijfeigene, die nu inderdaad dien naam begon te
+verdienen, beschermen? Ik zelf was er eens getuige van, dat een boer
+door den oudste van zijn dorp tot den knoet veroordeeld werd, alleen
+op verzoek van twee heeren, die beweerden dat hij dronken was en hunne
+tarantasse niet besturen kon. De beide heeren waren zelf beschonken;
+maar de oudste kende hen, en hij dacht er zelfs niet aan, naar bewijzen
+voor hunne beschuldiging te vragen. Een boer, die door een heer wordt
+aangeklaagd, heeft noodzakelijk ongelijk. "God is te hoog, de tsaar
+te ver weg", zoo luidt het weemoedige spreekwoord der boeren. In deze
+noodlottige, bange tijden was de aangeboren ruwheid de letter der wet
+te sterk, en de lijfeigenen werden geslagen, uitgehongerd, mishandeld,
+gedeporteerd, verkocht: maar dat alles geschiedde in openbaren strijd
+met de wet.
+
+Peter voerde eenige veranderingen in, die echter ondanks zijne
+goede bedoeling het kwaad verergerden. Hij verbood den verkoop
+van lijfeigenen, afgescheiden van het domein waarop zij woonden:
+een groote stap ten goede; maar hij verlamde de goede uitwerking van
+dien maatregel, door het aloude hoofd- of haardgeld te veranderen in
+eene soort van gemeenschappelijke belasting, waarvoor alleen de heer
+verantwoordelijk was, en die hij het recht had over zijne lijfeigenen
+om te slaan. Indien een meester met zulk eene macht bekleed geen engel
+is, loopt bij groot gevaar, erger dan een duivel te worden. Peter
+ontnam ook aan de godsdienstige broederschappen het recht, dat zij
+met de bojaren en edelen gemeen hadden, om lijfeigenen op hunne
+goederen te bezitten. De monniken hadden het bewijs geleverd, dat
+dit recht hun niet veilig kon worden toevertrouwd; en daar zij hunne
+landerijen bezaten krachtens een hooger titel, dan de wet kan geven,
+viel bet den lijfeigene van een klooster moeilijk, aan het denkbeeld
+vast te houden dat een gedeelte van den grond, dien hij bebouwde,
+inderdaad zijn eigendom was.
+
+Catharina zette den strijd van Peter tegen tartaarsche kleeding,
+manieren, gebruiken en gewoonten voort; maar, evenals Peter, kwam
+ook zij in botsing met veel, dat inderdaad echt nationaal was. Het
+welzijn van haar volk lag haar inderdaad aan het hart; en het charter,
+dat zij aan den adel verleende, werd in Rusland de grondslag voor
+een welvarenden, welopgevoeden en verlichten middenstand. Zij vatte
+het denkbeeld op, om de lijfeigenen tot vrije pachters te maken. Zij
+ontsloeg de lijfeigenen, die aan kloosters behoorden, plaatste hen
+onder eene afzonderlijke jurisdictie, en vaardigde verschillende
+edikten uit, die de verhouding van den lijfeigene tegenover zijn
+heer moesten regelen en verbeteren. Maar ook deze maatregel bewerkte
+het tegenovergestelde van hetgeen daarbij werd beoogd: want de
+lijfeigenschap, die tot dusver eene plaatselijke instelling was,
+in de eene provincie bestaande, in eene andere, daaraan grenzende,
+niet;--zoo, bij voorbeeld, wel in de gouvernementen Moskou en
+Woronesh, niet in Kharkow en Kiew;--werd nu door de wet, die voor
+het gansche rijk geldende was, erkend en geregeld. De voorliefde
+van Catharina voor die zekere eenvormigheid, die ook in hare oogen
+voor orde gold, bracht er haar toe om ook de boeren van Lithauen en
+Klein-Rusland aan den grond te verbinden, zooals Godounoff de boeren
+van Groot-Rusland aan den grond verbonden had, door hun een woning
+en een akker te geven. Paul, haar zoon, ging op den ingeslagen weg
+voort, door het recht van den heer op den arbeid van den lijfeigene
+te beperken tot drie dagen in de week: eene bepaling die, hoewel
+zij nimmer werd uitgevoerd, toch de nagedachtenis van Paul bij de
+plattelandsbevolking in hooge eere deed blijven. Toch breidde ook
+Paul de lijfeigenschap uit, door de schepping van eene nieuwe klasse
+van lijfeigenen, die der apanage-boeren: dat wil zeggen zij, die op
+de goederen, als apanage aan de prinsen van den bloede geschonken,
+waren gevestigd, en dus aan de onderscheidene leden der keizerlijke
+familie behoorden, zooals de kroonboeren tot bet kroondomein.
+
+Onder Alexander I trad deze moeilijke kwestie eene nieuwe phase
+in, door de vestiging eener klasse van vrije boeren: maar de
+oorlogen in zijne regeering lieten hem tijd noch gelegenheid om eene
+maatschappelijke omwenteling van zoo ingrijpenden en ernstigen aard
+tot stand te brengen; na verloop van weinige jaren verkeerden deze
+vrije boeren weder in denzelfden toestand als vroeger. Nikolaas was
+van nature weinig hervormingsgezind; de oude, streng behoudende geest
+leefde in hem; en hij breidde het stelsel van lijfeigenschap nog meer
+uit, door al de vrije boeren, kolonisten, mijnwerkers, houthakkers,
+onder het rechtstreeksch toezicht van den staat te plaatsen. Elke
+plattelandsbewoner, die geen eigen meester had, werd daardoor een
+kroonboer.
+
+Sedert het einde der regeering van Iwan (1598) tot den dood van
+Nikolaas (1855), had iedere Rus, die zijn vaderland liefhad en zijn
+gevoelen dorst uitspreken, zijne stem verheven tegen de toenemende
+misbruiken van het stelsel van lijfeigenschap, als iets, dat in
+vroeger, gelukkiger tijden bij zijn volk onbekend was. Iedere
+opgeworpen pretendent, iedere stoutmoedige rebel, die de wapens
+tegen den souverein opvatte, schreef in zijne banier de leus van
+vrijmaking der lijfeigenen. Reeds in 1670 vaardigde Stenka-Razin, in
+zijn kamp bij Astrakhan, eene proclamatie uit, waarvan de eerste twee
+artikelen, de onttrooning der regeerende dynastie en de bevrijding
+der lijfeigenen behelsden. De aanvoerder van een vrij wat geduchten
+opstand, Pugatcheff, schafte, honderd jaar later, in 1770, openlijk de
+lijfeigenschap af, ontsloeg de boeren van alle verplichtingen jegens
+hunne heeren, en verzekerde hun het vrije bezit van hun land. Pestel
+en de saamgezworenen van 1825 hadden evenzoo de afschaffing der
+lijfeigenschap bovenaan op hun programma geschreven.
+
+Daags vóór hij, op het Sint-Izaäksplein, den dreigenden opstand
+verpletterde, had keizer Nikolaas eene geheime commissie benoemd,
+die hem verslag moest doen over den maatschappelijken toestand des
+rijks, bepaaldelijk met het oog op de lijfeigenen. Op grond van de
+resultaten van dat onderzoek, ontwierp de keizer in de jaren 1828
+en '29, eene gansche reeks van besluiten, waarbij hij eene klasse
+van eereburgers (geen leden van een gilde) in het leven riep, en de
+boeren vrij verklaarde van hunne heeren. Deze besluiten werden nimmer
+uitgevaardigd; toen, na de uitbarsting, de kalmte in de gemoederen
+was wedergekeerd, achtte de keizer de hervormingen niet zoo dringend
+noodig. De kort daarop gevolgde Juli-omwenteling in Parijs deed hem
+geheel en al van zijn voornemen terugkomen. Hij liet de heeren ten
+ernstigste vermanen, dat zij hunne boeren en lijfeigenen als christenen
+moesten beschouwen en behandelen, en van hen niet meer dan drie dagen
+in de week heerediensten mochten vorderen, gelijk reeds door keizer
+Paul was bepaald. Daarmede meende hij aanvankelijk genoeg gedaan te
+hebben: zijn emancipatie-edikt bleef in de portefeuille.
+
+In de laatste jaren zijns levens kwelde deze geduchte kwestie keizer
+Nikolaas dag en nacht. In spijt van zijn talrijk, wel uitgerust leger,
+gevoelde hij dat de lijfeigenschap een gevaar voor zijn rijk opleverde
+en zijne kracht verlamde, die toch reeds geknot werd door de groote
+kerkelijke scheuring tusschen Orthodoxen en Oud-geloovigen. In welke
+mate het rijk door deze twee innerlijke kwalen verzwakt werd, dit
+begreep en erkende hij misschien eerst ten volle in de laatste dagen
+van zijn merkwaardig leven. Naar men zegt, riep hij zijn zoon op zijn
+sterfbed tot zich; verhaalde hem wat hij gedaan en wat hij nagelaten
+had; en drukte hem op het hart, den aangevangen arbeid te voltooien.
+
+Het mocht echter een geluk heeten voor de lijfeigenen, dat Nikolaas
+hen had laten wachten. Het ontwerp van emancipatie, onder de oogen
+des keizers opgesteld, was noch naar den geest, noch naar de letter,
+nationaal: het was veeleer een duitsch staatsstuk, uitgaande van
+de valsche stelling, dat de lijfeigenschap niets anders was dan de
+oud-feodale eigenhoorigheid, onder een anderen naam. Nikolaas ging,
+in verband daarmede, van het beginsel uit, dat de lijfeigene zijne
+persoonlijke vrijheid herkrijgen moest, maar dat de eigendom van den
+grond aan den heer moest blijven.
+
+Toen Alexander II den troon beklom (1855), verwachtten zoowel de edelen
+als de boeren van hem een grooten en doortastenden maatregel. De boeren
+vertrouwden den nieuwen keizer; de edelen wantrouwden en vreesden
+hem. Een panische schrik beving de landheeren. "Wat, zoo riepen zij,
+gaat gij ondernemen? en waartoe zal dat leiden? Het land is aan
+verwarring ten prooi: onze eigendommen zullen vernield worden. Zie
+die boerenkinkels eens aan, die gij vrij maken wilt! Zij kunnen
+lezen noch schrijven; zij hebben noch kapitaal, noch krediet, noch
+ondernemingsgeest. Als zij niet bidden, drinken zij zich dronken. In de
+poolsche provinciën moge zulk eene hervorming heilzaam en wenschelijk
+zijn, in het hart van Rusland nooit!"--De regeering liet zich door dien
+opstekenden storm niet van haar weg afbrengen; zij sprak woorden van
+vrede en verzoening, en trad tevens krachtig handelend op; de keizer
+herhaalde aan ieder die hem hooren kon, dat het groote gevaar lag,
+niet in te veel te doen, maar in niets te doen. Zijne meening vond
+ingang, en won langzamerhand veld.
+
+Uit verschillende provinciën kwamen adressen in. Adviseerende
+commissiën werden benoemd, en de keizer deed zijn best om de bekwaamste
+en vrijzinnigste mannen voor zijn plan te winnen, en aan de uitvoering
+te doen medewerken. Nadat op die wijze de publieke opinie was
+voorgelicht en voorbereid, werd eene hoofdcommissie benoemd, die
+te Petersburg zitting hield, bestaande uit de ministers van staat
+en uit eenige leden van den keizerlijken rijksraad; de keizer zelf
+nam het voorzitterschap dezer commissie op zich. Bovendien werd nog
+een tweede collegie ingesteld, de commissie van rapporteurs genoemd,
+onder voorzitterschap van graaf Rostowtcheff, een der geamnestiëerde
+opstandelingen van 1825. De hoofdcommissie bestudeerde de beginselen,
+die aan de emancipatie ten grondslag moesten liggen; de commissie
+van rapporteurs onderzocht en rangschikte de feiten. Niet minder
+dan achttien deelen, vol cijfers en tabellen, werden gedrukt; en
+de resultaten van het veelomvattende onderzoek nedergelegd in een
+wetsontwerp.
+
+Toen deze voorbereidende arbeid was afgeloopen, werden gedelegeerden
+uit de verschillende provinciën, door de collegiën der edelen gekozen,
+naar de hoofdstad ontboden om dit rapport te onderzoeken. Deze
+provinciale gedelegeerden deelden hunne bedenkingen schriftelijk aan de
+commissie van rapporteurs mede; en de nieuwe of veranderde bepalingen,
+die zij noodig achtten, werden, in den vorm van een gewijzigd ontwerp,
+aan den keizer en de hoofdcommissie onderworpen.
+
+Tot dusver hadden alleen de edelen en landheeren hunne meening omtrent
+het wetsontwerp kenbaar gemaakt; zij hadden, bij de vaststelling,
+alleen hunne eigene belangen geraadpleegd en de bijzondere zienswijze
+van hunne klasse gevolgd. Het recht van den lijfeigene op persoonlijke
+vrijheid werd erkend, maar van aanspraak op grondbezit werd niet
+gerept. Vrijheid zonder land--dit was het wachtwoord van alle
+belanghebbende partijen in de hoogere standen; en het was volstrekt
+geen geheim, dat het in portefeuille gebleven ontwerp van den vorigen
+keizer ook op ditzelfde beginsel rustte. Hoe zou een vergadering van
+landheeren, bevende voor hunne inkomsten, ook anders hebben kunnen
+adviseeren? "In vredesnaam dan de emancipatie, als het zoo zijn
+moet--spraken zij zuchtend;--maar de emancipatie zonder grondbezit." De
+provinciale gedelegeerden vooral waren op dit punt onverzettelijk;
+de commissie van rapporteurs huldigde ditzelfde beginsel in haar
+wetsontwerp, dat aan de hoofdcommissie werd ingezonden. Men beriep
+zich op het voorbeeld van Engeland, Frankrijk en Duitschland; en
+aangezien de vazallen en hoorigen in die landen, bij hunne vrijmaking,
+geen stuk gronds in eigendom hadden verkregen, werd besloten dat
+ook de geëmancipeerde lijfeigenen dit niet zouden bekomen. Ook de
+hoofdcommissie vereenigde zich met het aldus gewijzigde wetsontwerp.
+
+Maar de eindbeslissing stond gelukkig aan den keizer. Hoeveel riemen
+papier de rapporteurs en adviseurs ook vol schreven, de tsaar wist het
+wel, dat acht-en-veertig millioen zijner onderdanen tot hem, als tot
+hun vader, opzagen, en van hem alleen recht en hulp verwachtten; en dat
+van die acht-en-veertig millioen ieder man even vast overtuigd was van
+zijne wettige aanspraak op den grond, als van het recht des keizers op
+de kroon. Hij begreep dat vrijheid alleen, zonder de middelen om te
+kunnen leven, voor de boeren een noodlottig geschenk zou zijn. Niet
+willende dat eene heilzame, populaire hervorming zou uitloopen op
+eene onvruchtbare en noodlottige volksbeweging, weigerde hij zijne
+toestemming te geven aan een maatregel, die den boer tot armoede en
+gebrek zou doemen, onder voorwendsel van hem vrij te maken. Des keizers
+beginsel was: vrijheid met grondbezit; en dit juist en voortreffelijk
+beginsel hield hij staande tegenover zijne oudste en beste raadslieden.
+
+Tegenover de besluiten der commissiën, bleef den keizer slechts
+één weg open: beroep op een hooger collegie. Sommige leden van de
+hoofdcommissie, de bedoeling huns meesters kennende, hadden tegen
+het ontwerp gestemd; de keizer bracht nu de zaak voor den vollen
+rijksraad, omdat eene kwestie van zoo overwegend gewicht niet in
+eene ondergeschikte vergadering, bij eenvoudige meerderheid van
+stemmen, mocht worden uitgemaakt. Opnieuw stuitte hij op zelfzuchtige
+berekeningen. De rijksraad bestaat uit prinsen, graven, ministers,
+generaals--meest bejaarde mannen, die hunne carrière hebben gemaakt,
+weinig van het hof meer hebben te verwachten, en zeer gehecht zijn
+aan het behoud hunner goederen en inkomsten. Zij verklaarden zich
+tegen den keizer en de lijfeigenen.
+
+Maar juist toen alles verloren scheen, bleek alles gewonnen. Zoolang de
+volle rijksraad nog geen uitspraak had gedaan omtrent de voorstellen
+der commissiën, wilde de keizer geen gebruik maken van zijn absoluut
+gezag, al ware het ook om zijn land te redden; maar op denzelfden dag
+der stemming verklaarde hij, uit de volheid zijner souvereine macht,
+dat het beginsel van vrijheid met grondbezit den grondslag zou uitmaken
+van zijn emancipatie-wet.
+
+Op den 3den Maart 1861 (19 Februari, oude stijl), werd het edikt
+geteekend.
+
+De landbouwende bevolking bestond toen uit twee-en-twintig millioen
+gewone boeren of lijfeigenen, drie millioen apanageboeren, en
+drie-en-twintig millioen kroonboeren. Het edikt van 1861 had alleen
+betrekking op de eersten; eene bijzondere wet werd later ten gunste
+der kroon- en apanageboeren uitgevaardigd, die nu metterdaad even
+vrij zijn als zij vroeger alleen in naam vrij waren.
+
+Aan ieder "hoofd" werd een stuk lands, verschillend in de
+onderscheidene provinciën, naar gelang van de gesteldheid van bodem
+en klimaat, toegewezen; de heeren moesten dat stuk lands, tegen een
+bepaalden prijs, afstaan; en om de overneming van hunne woningen en
+aangewezen gronden voor de boeren gemakkelijker te maken, werd hun
+vanwege de regeering, op zeer billijke voorwaarden, een voorschot
+aangeboden. De boeren maakten van dit aanbod ijverig gebruik. Voor 1
+Januari 1869 had reeds de grootste helft der vrijverklaarde boeren,
+te dien einde de hulp van het gouvernement ingeroepen; en het totaal
+cijfer dezer door de kroon voorgeschoten gelden, die door de boeren
+moeten worden terugbetaald, is tot een hoogst aanzienlijk bedrag
+gestegen.
+
+Nu men eenmaal als grondslag van de emancipatie het beginsel had
+aangenomen, dat de vrijmaking met toekenning van grondbezit moest
+gepaard gaan, lag het in den aard der zaak, dat men ook bedacht moest
+zijn op de noodige waarborgen om te voorkomen dat de boer weder tot
+zijn vroeger zwervend leven terugkeerde. Niemand kon met zekerheid
+weten, in hoever de lijfeigenen nu werkelijk genezen waren van die
+nomadiseerende gewoonten, die tot de vestiging der lijfeigenschap
+aanleiding hadden gegeven. Niet zonder eenige ongerustheid vroeg
+men zich af, of de vrijgemaakte boer zich nu ook aan de wet en de
+maatschappelijke orde zou onderwerpen; en het werd noodig geacht,
+eenige regelen vast te stellen, ten einde eene herhaling van de wanorde
+en regeeringloosheid te voorkomen, die ten tijde van Boris Godounoff
+en Peter den Groote, de kroon gedwongen had strenge maatregelen te
+nemen tot kolonisatie van het land. De voornaamste dezer bepalingen
+laat ik hier volgen.
+
+Wil een boer van woonplaats veranderen, dan moet hij, vooreerst,
+voor altijd afstand doen van het hem toekomend aandeel in de
+gemeentegronden. Weigert de gemeente zijn aandeel over te nemen,
+dan moet hij het aan den landheer afstaan. Voorts moet hij voldaan
+hebben aan alle verplichtingen, die ten aanzien van de militaire
+dienst op hem rusten, en niet alleen alle achterstallige rijks- en
+plaatselijke belastingen hebben voldaan, maar ook het verschuldigde
+over het loopende jaar. Verder moet hij zich behoorlijk gekweten
+hebben van alle persoonlijke verplichtingen en verbindtenissen,
+wettiglijk tegenover derden aangegaan, en geen rechterlijk vonnis of
+aanklacht tot zijn last hebben. Hij moet al verder zorg dragen voor
+het onderhoud van al die leden zijner familie, die in de gemeente
+achterblijven, en die nog niet of niet meer in hun eigen onderhoud
+kunnen voorzien; en voorts alle achterstallige renten voor zijn
+grond aan den landheer hebben aangezuiverd. Eindelijk moet hij
+een schriftelijk bewijs overleggen, waaruit blijkt dat eene andere
+gemeente hem als lid wil opnemen, of dat hij eigenaar geworden is
+van een stuk lands, gelijkstaande met tweemaal zijn aandeel, in de
+onmiddellijke nabijheid der genoemde gemeente. Deze bepalingen, die
+slechts voorloopig van kracht zijn, werden voldoende geacht om den
+boer aan zijne woonplaats te verbinden. Of zij inderdaad den boer
+van zijne ingewortelde voorliefde voor een zwervend leven zullen
+afbrengen,--ziedaar eene vraag, waarop alleen de tijd een afdoend
+antwoord geven kan.
+
+Als bij al dergelijke groote hervormingen, toonden zich ook hier de
+belanghebbende partijen aanvankelijk het minst voldaan. De lijfeigenen
+hadden te veel gekregen, beweerde de een; de heeren hadden te veel
+behouden, klaagde de ander. In verscheidene provinciën wilden de
+boeren niet naar de voorlezing van het keizerlijk edikt in de kerk
+luisteren. Zij beweerden dat de pope hen misleidde; dat hij, door de
+edelen omgekocht of verschrikt, den tsaar verried, en hun een valsch
+stuk voorlas, door de heeren opgesteld. Dwepers en bedriegers maakten
+van deze stemming gebruik, om oproer te stoken; en hier en daar, vooral
+in de vroegere poolsche provinciën, barstten inderdaad meer of minder
+ernstige opstanden uit, die met kracht moesten worden onderdrukt.
+
+Met name was dit het geval in de welvarende provincie Penza, waar
+een onbekende, naar men zegt een zekere Egortsoff, van de sekte der
+Melkëters, zich voor den grootvorst Konstantijn, den broeder van
+keizer Nikolaas, uitgaf. De gewaande grootvorst plantte de roode
+vlag, verzamelde talrijke troepen boeren, en vervulde de gansche
+landstreek met schrik en ontsteltenis. De opstandelingen werden door
+de militaire macht uiteengedreven, en strenge strafoefeningen volgden;
+maar toch werd de rust niet hersteld, voordat de keizer zelf zich
+in de provincie vertoonde. Hij ontbood de oudsten van de omliggende
+dorpen, en sprak tot hen eenige wijze en troostrijke woorden. "Ik
+heb u al de vrijheden geschonken, die u bij de wet zijn gewaarborgd;
+maar ik heb u geene andere vrijheden gegeven, die niet in de wet zijn
+genoemd." Het was waarschijnlijk wel voor het eerst, dat de boeren
+vernamen, dat de wil des keizers door de wet beperkt was.
+
+
+
+
+XX.
+
+HEEREN EN DIENAARS.
+
+
+In het russische rijk leven twee volken, twee verschillende
+nationaliteiten nevens elkander: en dat niet slechts in eene enkele
+provincie, in sommige steden, maar in alle provinciën, en in bijkans
+alle steden. Overal vinden wij een hooger en een lager ras, eene
+vreemde en eene inlandsche bevolking; en bijna overal behooren de
+meesters en heeren tot het vreemde, de dienaren en ondergeschikten
+tot het inlandsche ras.
+
+Op het platteland en in de boschrijke streken valt deze scheiding
+niet zoo sterk in het oog als in de steden. Wel vinden wij hier
+en daar een vreemden grondbezitter, maar dit is toch altijd eene
+uitzondering; als algemeene regel kan men aannemen, dat de steden,
+in zekeren zin, aan de Duitschers behooren, terwijl het platteland,
+over het geheel genomen, het eigendom der Russen is. De handel,
+de nijverheid, de kunst, de wetenschap, de macht van Rusland:--dit
+alles was door de wet zelve aan de zorg en hoede der vreemdelingen
+toevertrouwd; de Russen zelf, ook wanneer zij geen lijfeigenen waren,
+bekleedden toch altijd een ondergeschikten rang, en eerst in onze
+dagen--na den Krimoorlog--is de regeering, om zoo te zeggen, de natuur
+te hulp gekomen, om Rusland weder voor de Russen te herwinnen.
+
+De regeerende dynastie is van vreemden oorsprong. Dit nu is een zeer
+gewoon verschijnsel: de beschaafdste en machtigste rijken der wereld
+worden geregeerd door vorsten, uit vreemde landen afkomstig. Te
+Londen is de regeerende familie van hannoverschen oorsprong; te
+Berlijn stamt zij uit Zwaben; te Parijs was zij laatstelijk uit
+Korsika; de oostenrijksche Habsburgs zijn uit Zwitserland afkomstig;
+de koninklijke familie van Denemarken stamt uit Holstein, die van
+Zweden uit Frankrijk, die van België uit Koburg, die van Nederland uit
+Duitschland, die van Griekenland uit Denemarken, Uit het feit, dat de
+russisch-keizerlijke familie uit het huis van Gottorp is gesproten,
+zou dus geen bijzondere gevolgtrekking ten aanzien van de innerlijke
+verhoudingen des lands zijn te maken: ware het niet, dat de russische
+boer bovendien nog andere redenen had, om zijn souverein, niet alleen
+wat zijne afkomst, maar ook wat zijne denkwijze en gezindheid betreft,
+als een vreemdeling te beschouwen. De twee heerschers, wier beeld het
+diepst in zijne ziel is geprent, Iwan IV en Peter de Groote, lieten
+geene gelegenheid voorbijgaan om goed te doen uitkomen, dat zij geen
+Russen waren.--"Let goed op het gewicht," zeide Iwan tot een engelsch
+kunstenaar, wien hij eenige gouden staven ter bewerking gaf;--"let
+goed op bet gewicht--want de Russen zijn al te gader dieven."--De
+Engelschman lachte.--"Waarom lacht gij?" vroeg de tsaar.--"Mij dunkt,
+als uwe majesteit al de Russen dieven noemt, dan vergeet zij toch
+dat zij zelf een Rus is."--"Hei wat!" hernam de tsaar: "ik ben een
+Duitscher, en geen Rus."--Peter maakte volstrekt geen geheim van zijne
+minachting voor alles wat echt moskovisch was. Hij sprak duitsch,
+en kleedde zich naar duitsche manier. Hij schoor zijn baard af, en
+kapte zich op duitsche wijze. Hij bouwde eene duitsche stad, die hij
+tot de hoofd- en residentiestad maakte, en waaraan hij een duitschen
+naam gaf. Hij was een liefhebber van eene duitsche pijp en van duitsch
+bier. Het nieuwe rijk, waarvan hij de stichter wilde zijn, stelde
+hij zich voor als een duitschen staat, met havens zooals Hamburg,
+steden zooals Frankfort en Berlijn; en in zijne getrouwe Russen zag
+bij niet veel meer dan eene horde barbaren, die hij moest beschaven
+en omscheppen in hollandsche en duitsche boeren en werklui.
+
+Voor den keizer, zelf een vreemdeling, was de vreemdeling de
+vertegenwoordiger der beginselen van orde, vrede en vooruitgang;
+de ingeborene daarentegen gold als de type van verspilling, wanorde
+en stilstand. Vandaar dat de regeerende dynastie al de volheid harer
+gunstbewijzen over de Duitschers heeft uitgestort; terwijl de Russen
+doorgaans op geene andere wijze met hunne regeering kennis maakten,
+dan door tusschenkomst van den ontvanger der belastingen en den
+commissaris van politie. De tegenstelling was zoo sterk, dat zij
+aanleiding gaf tot allerlei satires en spotternijen. Eens vroeg de
+keizer aan iemand, die hem eene dienst bewezen had, welke belooning
+hij begeerde. "Als Uwe Majesteit een Duitscher van mij maken wil,
+dan volgt de rest wel van zelf;"--antwoordde de ander.
+
+Bijna al de ministers, gezanten, staatslieden, kamerheeren, waren
+Duitschers van geboorte of afkomst; en wanneer, bij uitzondering haast,
+eene gewichtige betrekking aan een Rus werd toevertrouwd, dan was
+dit toch altijd nog meer in het leger, dan bij de diplomatie of in
+de regeering. De Duitscher is, over het algemeen, beter ontwikkeld en
+onderwezen dan de Rus; hij is vertrouwd met kunsten en wetenschappen,
+waarvan men onderstelt dat de inboorling geen begrip heeft, en ook
+nooit krijgen zal, omdat die hoogere ontwikkeling wordt geacht buiten
+zijn bereik te liggen. Peter vaardigde zelfs een edikt uit, waarbij
+de uitoefening van sommige beroepen en bedrijven uitsluitend aan
+de Duitschers werd voorbehouden. Zoo mocht een Rus, bij voorbeeld,
+geen apotheker zijn, uit vrees dat hij zijn klanten zou vergeven;
+noch ook schoorsteenveger, opdat hij geen brand zou stichten.
+
+Zulke verbodsbepalingen zijn later wel ingetrokken, maar wat de
+wet afschafte, bleef toch in menig opzicht van kracht, gehandhaafd
+door een hooger macht dan die van keizer of minister, door de macht
+der gewoonte. Geen Rus zal uit handen van een landgenoot zijn dosis
+rhabarber of zijn kininepillen aannemen: hij stelt hoegenaamd geen
+vertrouwen in diens bekwaamheid en nauwgezetheid. Een Rus kan een
+uitmuntend geneesheer zijn, want hij is scherpzinnig, heeft eene
+groote gave van opmerking en een gevoelig, medelijdend hart; maar het
+schijnt wel, dat alle geleerdheid en tact niet voldoende is, om hem
+geschikt te maken voor het moeilijk vak van artsenijmenger. Hij is
+te driftig, te brusk, en heeft geen geduld om, met een loup gewapend,
+de bijkans onmerkbare slingeringen van een balans na te gaan. Op een
+grein of wat meer of minder komt het er, volgens hem, niet aan. In
+Moskou, waar de oud-nationale, panslavistische geest zeer sterk is,
+hoorde ik van meer dan één geval, waarin de wensch om een inlandschen
+apotheker te begunstigen, den onvoorzichtigen patriot een ontijdigen
+dood had berokkend.
+
+"Het is onmogelijk eene russische meid te leeren, zeide eene dame
+die mij over hare dienstboden sprak. Dat meisje, dat ge daar zooeven
+gezien hebt, is voor haar doen zeer goed en bekwaam; het werk is
+haar nooit te veel; nooit zal ze over iets klagen; des zondags en
+op heilige dagen gaat zij getrouw naar de mis; en zij zou liever van
+honger sterven, dan in de vasten eieren of melk te gebruiken. Maar ik
+kan het niet van haar gedaan krijgen, dat zij, op engelsche manier,
+de wasch doet, de kamer schoonmaakt of de tafel dekt. Als ik haar
+wijs, hoe zij het doen moet, dan zegt zij, met een ernstig gezicht,
+dat in haar land het gebruik zus of zóó is; en wanneer ik er op blijf
+staan, dat bij mij in huis de zaken gedaan zullen worden, zooals ik
+het verlang, dan onderwerpt zij zich, met een soort van stil protest,
+en loopt de deur uit om haar ouders en haar pope te vertellen, dat
+hare engelsche meesteres door een boozen geest gedreven wordt."
+
+De vreemdelingen, die in Rusland zoovele aanzienlijke en gewichtige
+betrekkingen bekleeden, en in zekeren zin de intellektuëele
+aristokratie des lands vormen, worden te Berlijn niet als echte
+Duitschers beschouwd. Zij zijn afkomstig uit de Oostzee-provinciën,
+uit Lijfland en Lithauen; maar, naar hun beweren, stammen zij niet af
+van de Letten en Wenden, de oorspronkelijke bewoners des lands, maar
+van de oude duitsche ridders, die deze destijds heidensche streken
+veroverden. Wat hiervan zij: hunne energie, hunne bekwaamheid en hun
+invloed zijn ontwijfelbaar groot. Reeds lang voor Peter den Groote
+hadden zij zich in het land eene vaste positie weten te verwerven;
+onder Peter werden zij inderdaad heeren en meesters; en sedert
+dien tijd hebben zij zich voortdurend beijverd, de inboorlingen te
+onderwerpen en te beschaven, op dezelfde wijze als hunne voorouders in
+Oost- en West-Pruisen de oude heidensche Letten en Finnen beschaafden.
+
+Toch bestaat er geen band van liefde en genegenheid tusschen deze
+vreemden en de landskinderen, tusschen de heeren en de dienaars. De
+beide rassen hebben niets gemeen; noch het bloed, noch de taal,
+noch het geloof; zij verschillen van elkander, als het Westen van
+het Oosten. Een Duitscher laat zijn haar, zijn baard en knevels
+knippen; hij draagt een hoed en schoenen, en kleedt zich in zacht,
+warm laken. Hij ontkleedt zich, eer hij zich ter ruste legt,
+en slaapt liever in een bed, dan zijn lichaam half te verbranden
+op een kachel. Hij wascht zich minstens eens per dag, drinkt geen
+brandewijn, en is een liefhebber van zuurkool. Een Duitscher gelooft
+in de wetenschap, een Rus gelooft in het noodlot; de een neemt de
+ondervinding tot gids en leiddraad, de ander geeft zich blindelings
+over aan de leiding van onzichtbare machten. Wordt het kind van
+een Duitscher ziek, dan laat de vader den dokter komen; wordt een
+russisch kind ziek, dan roept de vader zijn beschermheilige aan. In de
+noordelijke streken, waar het wemelt van wolven, drijft de vreemdeling,
+bij het vallen van den avond, zijne schapen naar de kooi; maar de Rus
+zegt: een schaap is geboren om door wolven verslonden te worden of
+niet; en iedere poging om in dit vooraf bepaalde lot verandering te
+brengen, staat gelijk met opstand tegen God. Een Duitscher is boven
+alles een man van orde en methode; hij kent de waarde van schijnbare
+kleinigheden en wijdt daaraan zijne aandacht. Zijne ondervinding
+heeft hem geleerd, de verschillende bekwaamheden en neigingen des
+menschen te onderkennen; hij weet dat de een geschikt is om rijtuigen
+te maken, terwijl een ander een gedicht kan schrijven, en een derde
+troepen kommandeeren of een schip besturen. Hij stelt hoogen prijs op
+orde en regelmatigheid en nauwgezetheid in zijn zaken. Hij staat des
+morgens vroeg op, en gaat laat naar bed; met een pijp in den mond,
+een glas bier naast zich, een bril op zijn neus, werkt hij onvermoeid
+zestien uren op een dag, zonder ooit te morren of te klagen. Hij
+verlaat zelden zijn lessenaar, en verliest nooit den eerbied uit het
+oog, dien hij zijn meerderen verschuldigd is. Is hij in een post van
+vertrouwen geplaatst, dan is hij de eerlijkheid in persoon; zelfs in
+Rusland is het eene groote zeldzaamheid, dat een Duitscher zich laat
+omkoopen; en zijne eigene onkreukbare nauwgezetheid maakt hem hard
+en streng tegenover den man, dien hij reden meent te hebben, van
+minder onbuigzame eerlijkheid te verdenken. En ook nog in anderen,
+hoogeren zin, is de Duitscher een onoplosbaar raadsel in het oog
+zijner onderhoorigen. Met al zijn zucht en hartstocht voor orde,
+stiptheid en werktuigelijke regelmatigheid, met al zijn praktischen
+zin, is deze man tevens een droomer, een idealist, die, als het
+er op aankomt, eene mate van teederheid, van fijn, echt ridderlijk
+gevoel, van geestdrift, toont te bezitten, waarvan de Rus geen besef
+heeft.--Een Rus, daarentegen, is juist het omgekeerde. Ook hij is een
+zeer positief man, en tegelijk een idealist, vol illusiën: maar hij is
+positief en dogmatisch op het gebied der ideeën, en zijne illusiën
+hebben betrekking op zijn dagelijksch leven en verkeer. Ondanks
+de blijkbare overdrijving, is er toch wel waarheid in het gezegde,
+dat een Rus nooit droomt..... behalve wanneer hij goed wakker is!
+
+Laat ons twee werkplaatsen, twee linnenweverijen, een duitsche en een
+russische, bezoeken, in een der groote binnenlandsche steden aan eene
+of andere rivier.
+
+In de russische fabriek behooren de meester en zijne werklieden tot
+hetzelfde ras; hunne levenswijze, hunne manier van denken en gevoelen
+en handelen is dezelfde. Zij eten aan dezelfde tafel, en gebruiken
+met elkander dezelfde spijzen. Allen laten hun haar en baard groeien,
+en dragen hetzelfde fatsoen van kaftan en laarzen; zij spelen met
+elkander op het dambord of whist; zij drinken te zamen brandewijn
+en kwas; zij knielen voor hetzelfde altaar, kussen hetzelfde kruis,
+en belijden hunne zonden aan denzelfden priester. Drinkt een der
+gezellen zich des Zondagsavonds dronken, dan wordt hem dit, noch
+door zijn makkers, noch door den patroon, erg kwalijk genomen. Hoe
+licht kunnen zij niet in hetzelfde geval verkeeren? Slaat de meester
+een zijner werklieden, dan moeten zij dit onder elkander uitmaken. De
+man zal zich geduldig laten slaan, of wel hij zal een stok grijpen en
+zich verweren. Dat zijn echter huiselijke zaken, waarmede het niemand
+in den zin komt de overheid te bemoeien.
+
+In de duitsche fabriek vinden wij veel meer orde, en een meester met
+een geschoren kin. Die meester mag een vriendelijk en rechtschapen man
+zijn, maar hij is een vreemdeling, en handhaaft eene strenge tucht. In
+zijne oogen, gaat het belang der zaak boven alles; de belangen der
+werklieden komen eerst daarna in aanmerking. Hij eischt dat men op
+het bepaalde uur tegenwoordig zij, en zonder ophouden den gezetten
+tijd doorwerke. Hij houdt zijne manschappen aan den arbeid; hij geeft
+den Maandag niet vrij, omdat zij 's Zondags te veel gedronken hebben,
+en duldt niet dat zijne werklieden die woeste rooverliederen zingen,
+waarvan de Russen zoo bijzonder veel houden. Blijven zijne gezellen
+weg, dan houdt hij hun daggeld in, en staat niet toe, dat zij des
+nachts inhalen, wat zij over dag verzuimen. In geval van nood, roept
+hij de hulp in der politie.
+
+De beide rassen staan ieder op zichzelf. In het russische rijk
+vindt men een honderdtal duitsche volkplantingen: oude en nieuwe,
+landbouwende en godsdienstige koloniën. In deze dorpen is alles even
+netjes en zindelijk; de wegen worden goed onderhouden; de huizen zijn
+goed gebouwd; de tuinen met zorg en smaak aangelegd. De wagens zijn
+beter gemaakt, de paarden worden beter opgetuigd en bestuurd, het koren
+en graan beter geborgen en verzorgd dan bij de inboorlingen. Toch
+oefent de duitsche kolonie geen merkbaren invloed op het russische
+dorp uit; een inlandsch gehucht, op niet meer dan een mijl afstand van
+zulke nederzettingen als Strelna of Sarepta verwijderd, zal misschien
+nog smeriger en achterlijker wezen, als om het contrast te beter te
+doen uitkomen.
+
+De landskinderen zien hun duitschen meester met geen goed oog
+aan. Zijn gewasschen en geschoren gelaat schijnt hun iets verwijfds;
+en zij gevoelen de uiterste verachting voor zijne pijp, voor zijn
+bier, voor zijn bril. Brandewijn, zeggen zij, is de ware drank voor
+mannen. En wat nog het ergste is: zij beschouwen hem als een ketter,
+aan wien de hemel wel--zoo als de Arabieren zeggen--voor een tijd de
+macht van den stok kan hebben gegeven, maar die desniettemin door de
+kerk wordt veroordeeld en verworpen is bij God.
+
 
 
 
@@ -5389,19 +7106,28 @@ Een oogenblik later is hij vertrokken.
 
 
 
-AANTEEKENING
-
-
-[1] Wij verwijzen de lezers voor de nadere kennismaking met deze
-vier russische secten naar de zeer belangrijke bijzonderheden, op
-bladz. 308 en volg. van den jaargang 1870 der _Aarde_ medegedeeld. Het
-daar gezegde ontslaat ons van de verplichting, ditzelfde onderwerp
-thans nog eenmaal te behandelen.
 
 
 
+DE KATHEDRAAL VAN FREIBURG.
 
-                     DE KATHEDRAAL TE PUY.
+
+Wie het heerlijke Baden bezocht en de prachtige natuur van het
+Schwarzwald genoten heeft, heeft gewis ook te Freiburg vertoefd en met
+bewondering stil gestaan voor zijn indrukwekkende Kathedraal. Voor hem
+zal de nevenstaande uitmuntende afbeelding een aangename herinnering
+geven. Door Koenraad van Zähringen omstreeks 1122 begonnen, heeft
+men eerst 400 jaar later de laatste hand gelegd aan dit reusachtige,
+sierlijke kunstwerk, dat een der voortreffelijkste gewrochten is van
+den gothischen bouwstijl en de zeldzame verdiensten heeft van geheel
+voltooid en verwonderlijk goed geconserveerd te zijn.
+
+
+
+
+
+
+DE KATHEDRAAL TE PUY.
 
 
 Schilderachtig ligt de oude stad Puy-en-Velay, de tegenwoordige
@@ -5440,12 +7166,12 @@ groot gewicht.
 
 
 
-                     TWEE RUSTIGE PLEKJES.
 
+
+TWEE RUSTIGE PLEKJES.
 
 
 I. SCHAFFHAUSEN.
-
 
 Wat schilderachtig stadsgezichtje, dat oude Schaffhausen met zijne
 zonderlinge huizen, zoo grillig en fantastisch van bouworde; zoo
@@ -5472,8 +7198,8 @@ die hem nu voor ons, van verre staande, omstraalt!
 
 
 
-II. GEROLDSAU.
 
+II. GEROLDSAU.
 
 Drie malen heb ik mij nedergezet onder de koele lommer dier groote
 boomen, aan den oever dier heldere, murmelende wateren, bij den
@@ -5521,6 +7247,20 @@ omdat de geest, die uit haar spreekt, ook fluistert in ons eigen hart?
 
 
 
+
+AANTEEKENING
+
+
+[1] Wij verwijzen de lezers voor de nadere kennismaking met deze
+vier russische secten naar de zeer belangrijke bijzonderheden, op
+bladz. 308 en volg. van den jaargang 1870 der Aarde medegedeeld. Het
+daar gezegde ontslaat ons van de verplichting, ditzelfde onderwerp
+thans nog eenmaal te behandelen.
+
+
+
+
+
 End of Project Gutenberg's Het Vrije Rusland, by William Hepworth Dixon
 
 *** END OF THIS PROJECT GUTENBERG EBOOK HET VRIJE RUSLAND ***
@@ -5530,7 +7270,8 @@ This and all associated files of various formats will be found in:
         http://www.gutenberg.org/1/8/3/3/18339/
 
 Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg.
 
 
 Updated editions will replace the previous one--the old editions
@@ -5564,8 +7305,8 @@ To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -5737,7 +7478,7 @@ Gutenberg-tm electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
@@ -5757,9 +7498,9 @@ is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
 1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -5790,14 +7531,14 @@ because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
+assistance they need are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
 remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
+and the Foundation information page at www.gutenberg.org
 
 
 Section 3.  Information about the Project Gutenberg Literary Archive
@@ -5807,24 +7548,21 @@ The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+number is 64-6221541.  Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
 
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
 
 For additional contact information:
      Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
-
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -5844,7 +7582,7 @@ considerable effort, much paperwork and many fees to meet and keep up
 with these requirements.  We do not solicit donations in locations
 where we have not received written confirmation of compliance.  To
 SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+particular state visit www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -5858,29 +7596,28 @@ outside the United States.  U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
 ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+To donate, please visit:  www.gutenberg.org/donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
+with anyone.  For forty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
-
 
 Project Gutenberg-tm eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the U.S.
 unless a copyright notice is included.  Thus, we do not necessarily
 keep eBooks in compliance with any particular paper edition.
 
-
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+     www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
